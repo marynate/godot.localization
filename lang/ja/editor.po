@@ -1,534 +1,519 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: \n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-04-15 18:22+0800\n"
-"PO-Revision-Date: 2014-04-15 19:05+0800\n"
-"Last-Translator: Mary Nate <mary.w.nate@gmail.com>\n"
-"Language-Team: LANGUAGE <LL@li.org>\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.4\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Godot\n"
 "Language: ja\n"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.h:323
 msgid "2D"
-msgstr ""
+msgstr "2D"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:605
 msgid "2D Texture"
-msgstr ""
+msgstr "2Dテクスチャ"
 
 #: tools/editor/plugins/spatial_editor_plugin.h:469
 msgid "3D"
-msgstr ""
+msgstr "3D"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:690
 msgid "3D Scene"
-msgstr ""
+msgstr "3Dシーン"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1583
 msgid "3D Scene Animation"
-msgstr ""
+msgstr "3Dシーンアニメーション"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:609
 msgid "3D Texture"
-msgstr ""
+msgstr "3Dテクスチャ"
 
 #: tools/editor/editor_node.cpp:3661
 msgid "About"
-msgstr ""
+msgstr "約"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:652
 #: tools/editor/io_plugins/editor_sample_import_plugin.cpp:361
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:648
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:537
 msgid "Accept"
-msgstr ""
+msgstr "受け入れる"
 
 #: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:294
 msgid "Add Item"
-msgstr ""
+msgstr "アイテムの追加"
 
 #: tools/editor/io_plugins/editor_translation_import_plugin.cpp:347
 msgid "Add to Project (engine.cfg)"
-msgstr ""
+msgstr "プロジェクトに追加する（engine.cfg）"
 
 #: tools/editor/editor_node.cpp:3668
 msgid "Alerts when an external resource has changed."
-msgstr ""
+msgstr "外部リソースが変更されたアラート。"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:374
 msgid "Amount:"
-msgstr ""
+msgstr "金額："
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:1040
 msgid "Animation Name:"
-msgstr ""
+msgstr "アニメーションの名前："
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1357
 msgid "Animation Node"
-msgstr ""
+msgstr "アニメーションノード"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:239
 msgid "Animation Options"
-msgstr ""
+msgstr "アニメーションオプション"
 
 #: tools/editor/animation_editor.cpp:3171
 msgid "Animation length (in seconds)."
-msgstr ""
+msgstr "アニメーションの長さ（秒単位）。"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:1010
 msgid "Animation position (in seconds)."
-msgstr ""
+msgstr "アニメーションの位置（秒単位）。"
 
 #: tools/editor/animation_editor.cpp:3145
 #: tools/editor/animation_editor.cpp:3157
 msgid "Animation zoom."
-msgstr ""
+msgstr "アニメーションズーム。"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:329
 msgid "At least one file needed for Atlas."
-msgstr ""
+msgstr "アトラスのために必要な少なくとも一つのファイル。"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:614
 msgid "Atlas Texture"
-msgstr ""
+msgstr "アトラステクスチャ"
 
 #: tools/editor/io_plugins/editor_sample_import_plugin.cpp:385
 msgid "Audio Sample"
-msgstr ""
+msgstr "オーディオサンプル"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:342
 msgid "Auto Restart:"
-msgstr ""
+msgstr "自動再起動："
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:957
 msgid "Autoplay On Load"
-msgstr ""
+msgstr "負荷に自動再生"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:335
 msgid "Blend"
-msgstr ""
+msgstr "ブレンド"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:414
 msgid "Blend 0:"
-msgstr ""
+msgstr "ブレンド0："
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:422
 msgid "Blend 1:"
-msgstr ""
+msgstr "ブレンド1："
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:1063
 msgid "Blend Times: "
-msgstr ""
+msgstr "タイムズブレンド："
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1360
 msgid "Blend2 Node"
-msgstr ""
+msgstr "ブレンド2ノード"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1361
 msgid "Blend3 Node"
-msgstr ""
+msgstr "Blend3ノード"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1362
 msgid "Blend4 Node"
-msgstr ""
+msgstr "Blend4ノード"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:386
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:401
 msgid "Blend:"
-msgstr ""
+msgstr "ブレンド："
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1344
 msgid "Break"
-msgstr ""
+msgstr "ブレーク"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1460
 msgid "Can't import a file over itself: '"
-msgstr ""
+msgstr "自体を介してファイルをインポートすることはできません： '"
 
 #: tools/editor/editor_node.cpp:1055
 msgid "Can't load MeshLibrary for merging!."
-msgstr ""
+msgstr "マージMeshLibraryをロードできません！"
 
 #: tools/editor/editor_node.cpp:1089
 msgid "Can't load TileSet for merging!."
-msgstr ""
+msgstr "マージするタイルセットをロードできません！"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:487
 msgid "Can't load/process source font"
-msgstr ""
+msgstr "/プロセスソースのフォントをロードすることはできません"
 
 #: tools/editor/editor_node.cpp:1123
 msgid "Can't open export templates zip."
-msgstr ""
+msgstr "エクスポートテンプレートジップ開くことができません。"
 
 #: tools/editor/editor_node.cpp:432
 msgid "Can't open file for writing: "
-msgstr ""
+msgstr "書き込み用にファイルを開くことができません。"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:267
 msgid "Change Animation Name:"
-msgstr ""
+msgstr "変化がアニメーション名："
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1369
 msgid "Clear"
-msgstr ""
+msgstr "明確な"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2214
 msgid "Clear Pose"
-msgstr ""
+msgstr "明確なポーズ"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2221
 #: tools/editor/plugins/script_editor_plugin.cpp:1223
 #: tools/editor/plugins/script_editor_plugin.cpp:1359
 msgid "Close"
-msgstr ""
+msgstr "クローズ"
 
 #: tools/editor/io_plugins/editor_translation_import_plugin.cpp:89
 msgid "Column"
-msgstr ""
+msgstr "コラム"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1321
 msgid "Complete Symbol"
-msgstr ""
+msgstr "完全なシンボル"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2169
 msgid "Configure Snap.."
-msgstr ""
+msgstr "スナップを設定.."
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1345
 msgid "Continue"
-msgstr ""
+msgstr "続ける"
 
 #: tools/editor/editor_node.cpp:3455
 msgid "Convert To.."
-msgstr ""
+msgstr "に変換.."
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1316
 msgid "Copy"
-msgstr ""
+msgstr "コピー"
 
 #: tools/editor/editor_node.cpp:1374
 msgid "Copy Params"
-msgstr ""
+msgstr "コピーのParams"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2212
 msgid "Copy Pose"
-msgstr ""
+msgstr "コピーがポーズ"
 
 #: tools/editor/editor_node.cpp:1539
 msgid "Could not start subprocess!"
-msgstr ""
+msgstr "サブプロセスを起動できませんでした！"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:495
 msgid "Could't save font."
-msgstr ""
+msgstr "フォントを保存Could't。"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:335
 msgid "Couldn't load Post-Import Script."
-msgstr ""
+msgstr "ポストスクリプトの読み込みをロードできませんでした。"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1411
 msgid "Couldn't load post-import script: '"
-msgstr ""
+msgstr "ポストインポートスクリプトをロードできませんでした。 '"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1465
 msgid "Couldn't localize path: '"
-msgstr ""
+msgstr "パスをローカライズできませんでした： '"
 
 #: tools/editor/editor_node.cpp:716
-msgid ""
-"Couldn't save scene. Likely dependencies (instances) couldn't be satisfied."
-msgstr ""
+msgid "Couldn't save scene. Likely dependencies (instances) couldn't be satisfied."
+msgstr "シーンを保存できませんでした。おそらく依存関係（のインスタンス）を満足することができませんでした。"
 
 #: tools/editor/editor_node.cpp:997
-msgid ""
-"Couldn't save subscene. Likely dependencies (instances) couldn't be "
-"satisfied."
-msgstr ""
+msgid "Couldn't save subscene. Likely dependencies (instances) couldn't be satisfied."
+msgstr "サブシーンを保存できませんでした。おそらく依存関係（のインスタンス）を満足することができませんでした。"
 
 #: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:156
 msgid "Creating Mesh Library"
-msgstr ""
+msgstr "メッシュライブラリの作成"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:485
 msgid "Crop empty space."
-msgstr ""
+msgstr "空のスペースをトリミング。"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:1066
 msgid "Cross-Animation Blend Times"
-msgstr ""
+msgstr "クロスアニメーションブレンドタイムズ"
 
 #: tools/editor/editor_node.cpp:1993
 msgid "Current scene not saved. Open anyway?"
-msgstr ""
+msgstr "現在のシーンは保存されません。とにかく開く？"
 
 #: tools/editor/editor_node.cpp:1516
 msgid "Current scene was never saved, please save scene before running."
-msgstr ""
+msgstr "現在のシーンが保存されなかった、実行する前にシーンを保存してください。"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:444
 msgid "Current:"
-msgstr ""
+msgstr "電流："
 
 #: tools/editor/animation_editor.cpp:3187
 msgid "Cursor step snap (in seconds)."
-msgstr ""
+msgstr "（秒単位）カーソル段階スナップ。"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1315
 msgid "Cut"
-msgstr ""
+msgstr "カット"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1338
 msgid "Debug"
-msgstr ""
+msgstr "デバッグ"
 
 #: tools/editor/editor_node.cpp:3967
 msgid "Debug:"
-msgstr ""
+msgstr "デバッグ："
 
 #: tools/editor/editor_node.cpp:3618
 msgid "Deploy dumb clients when the File Server is active."
-msgstr ""
+msgstr "ファイル·サーバーがアクティブなときにダムのクライアントを配備する。"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:600
 msgid "Dest Resource:"
-msgstr ""
+msgstr "DEST資源："
 
 #: tools/editor/editor_node.cpp:2902
-msgid ""
-"Discard current scene and open:\n"
+msgid "Discard current scene and open:\n"
 "'"
-msgstr ""
+msgstr "現在のシーンを破棄し、開きます。\n"
+"'"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:953
 msgid "Display list of animations in player."
-msgstr ""
+msgstr "プレーヤーでのアニメーションのリストを表示します。"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2126
-msgid ""
-"Drag: Rotate\n"
+msgid "Drag: Rotate\n"
 "Alt+Drag: Move\n"
 "Press 'v' to Move Pivot (while moving)"
-msgstr ""
+msgstr "ドラッグ：回転\n"
+"Altキー+ドラッグ：移動\n"
+"（移動中）にピボットを移動するために押して、「V」"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:948
 msgid "Duplicate Animation"
-msgstr ""
+msgstr "アニメーションを複製"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:348
 msgid "ERROR: Animation Name Already Exists!"
-msgstr ""
+msgstr "ERROR：アニメーションの名前がす​​でに存在している！"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:337
 msgid "ERROR: Invalid animation name!"
-msgstr ""
+msgstr "エラー：無効なアニメーション名！"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1311
 #: tools/editor/project_manager.cpp:698
 msgid "Edit"
-msgstr ""
+msgstr "編集"
 
 #: tools/editor/plugins/item_list_editor_plugin.cpp:230
 msgid "Edit Items"
-msgstr ""
+msgstr "アイテムの編集"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1469
 msgid "Edit Node Filters"
-msgstr ""
+msgstr "編集ノード·フィルタ"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:971
 msgid "Edit Target Blend Times"
-msgstr ""
+msgstr "ターゲットの編集ブレンドタイムズ"
 
 #: tools/editor/editor_node.cpp:3654
 msgid "Editor Settings"
-msgstr ""
+msgstr "エディタの設定"
 
 #: tools/editor/editor_node.cpp:3964
 msgid "Enable Debugging"
-msgstr ""
+msgstr "デバッグを有効にする"
 
 #: tools/editor/animation_editor.cpp:3205
 msgid "Enable editing of individual keys by clicking them."
-msgstr ""
+msgstr "それらをクリックすることにより、個々のキーの編集を可能にする。"
 
 #: tools/editor/animation_editor.cpp:3196
 msgid "Enable/Disable looping in animation."
-msgstr ""
+msgstr "有効化/アニメーションでループ無効にします。"
 
 #: tools/editor/project_manager.cpp:737
 msgid "Erase"
-msgstr ""
+msgstr "消す"
 
 #: tools/editor/editor_node.cpp:440
 msgid "Error Saving."
-msgstr ""
+msgstr "保存エラー。"
 
 #: tools/editor/editor_node.cpp:1026
 msgid "Error duplicating scene to save it."
-msgstr ""
+msgstr "それを保存するためのシーンを複製エラーが発生しました。"
 
 #: tools/editor/editor_node.cpp:765
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:374
 msgid "Error importing scene."
-msgstr ""
+msgstr "シーンをインポートする際に、エラー。"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:350
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:373
 msgid "Error importing: "
-msgstr ""
+msgstr "エラーインポート："
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:718
 msgid "Error initializing FreeType."
-msgstr ""
+msgstr "FreeTypeの初期化をエラー。"
 
 #: tools/editor/editor_node.cpp:781
 msgid "Error load scene to update."
-msgstr ""
+msgstr "更新するエラー負荷のシーン。"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:729
 msgid "Error loading font."
-msgstr ""
+msgstr "読み込みエラーのフォント。"
 
 #: tools/editor/editor_node.cpp:2679
-msgid ""
-"Error loading scene, it must be inside the project path. Use 'Import' to "
-"open the scene, then save it inside the project path."
-msgstr ""
+msgid "Error loading scene, it must be inside the project path. Use 'Import' to open the scene, then save it inside the project path."
+msgstr "読み込みエラーのシーンは、プロジェクトパスの中になければなりません。プロジェクトパスの中にそれを保存して、シーンを開くには「インポート」を使用してください。"
 
 #: tools/editor/editor_node.cpp:2693 tools/editor/editor_node.cpp:2706
 msgid "Error loading scene."
-msgstr ""
+msgstr "読み込みエラーのシーン。"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1427
 msgid "Error running Post-Import script: '"
-msgstr ""
+msgstr "インポート後のスクリプトを実行しているエラー： '"
 
 #: tools/editor/editor_node.cpp:1072
 msgid "Error saving MeshLibrary!."
-msgstr ""
+msgstr "エラーMeshLibraryを節約！"
 
 #: tools/editor/editor_node.cpp:1106
 msgid "Error saving TileSet!."
-msgstr ""
+msgstr "エラータイルセットを保存する！"
 
 #: tools/editor/editor_node.cpp:1015
 msgid "Error saving scene."
-msgstr ""
+msgstr "エラーのシーンを保存する。"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:1049
 msgid "Error!"
-msgstr ""
+msgstr "エラー！"
 
 #: tools/editor/project_manager.cpp:746
 msgid "Exit"
-msgstr ""
+msgstr "出口"
 
 #: tools/editor/editor_node.cpp:1979
 msgid "Exit the Editor?"
-msgstr ""
+msgstr "エディタを終了？"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2173
 msgid "Expand to Parent"
-msgstr ""
+msgstr "親に拡大"
 
 #: tools/editor/editor_node.cpp:3524
 msgid "Export"
-msgstr ""
+msgstr "輸出"
 
 #: tools/editor/editor_node.cpp:3951
 msgid "Export Library"
-msgstr ""
+msgstr "輸出ライブラリ"
 
 #: tools/editor/editor_node.cpp:1934
 msgid "Export Mesh Library"
-msgstr ""
+msgstr "輸出メッシュライブラリ"
 
 #: tools/editor/editor_node.cpp:3947
 msgid "Export Project"
-msgstr ""
+msgstr "輸出プロジェクト"
 
 #: tools/editor/editor_node.cpp:1948
 msgid "Export Tile Set"
-msgstr ""
+msgstr "輸出タイルセット"
 
 #: tools/editor/editor_node.cpp:3523
 msgid "Export the project to many platforms."
-msgstr ""
+msgstr "多くのプラットフォームにプロジェクトをエクスポートします。"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:321
 msgid "Fade In (s):"
-msgstr ""
+msgstr "フェードイン（秒）："
 
 #: tools/editor/editor_node.cpp:863
 msgid "Failed to load resource."
-msgstr ""
+msgstr "リソースの読み込みに失敗しました。"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1302
 msgid "File"
-msgstr ""
+msgstr "ファイル"
 
 #: tools/editor/editor_node.cpp:436
 msgid "File format requested unknown: "
-msgstr ""
+msgstr "ファイル形式は、未知の要請："
 
 #: tools/editor/editor_node.cpp:3760
 msgid "FileSystem"
-msgstr ""
+msgstr "FileSystemの"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1482
 msgid "Filters.."
-msgstr ""
+msgstr "フィルター.."
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1329
 msgid "Find Next"
-msgstr ""
+msgstr "次を検索"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1328
 msgid "Find.."
-msgstr ""
+msgstr "見つける.."
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:1320
 msgid "Font"
-msgstr ""
+msgstr "フォント"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:640
 msgid "Font Import"
-msgstr ""
+msgstr "フォントのインポート"
 
 #: tools/editor/editor_node.cpp:3749
 msgid "Go to the next edited object in history."
-msgstr ""
+msgstr "歴史の中で次の編集されたオブジェクトにアクセスしてください。"
 
 #: tools/editor/editor_node.cpp:3742
 msgid "Go to the previous edited object in history."
-msgstr ""
+msgstr "歴史の中で、前の編集されたオブジェクトにアクセスしてください。"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1332
 msgid "Goto Function.."
-msgstr ""
+msgstr "後藤機能.."
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1333
 msgid "Goto Line.."
-msgstr ""
+msgstr "後藤ライン.."
 
 #: tools/editor/editor_node.cpp:3445
 msgid "Goto Prev. Scene"
-msgstr ""
+msgstr "後藤前。シーン"
 
 #: tools/editor/editor_help.h:180
 msgid "Help"
-msgstr ""
+msgstr "助け"
 
 #: tools/editor/editor_node.cpp:426 tools/editor/editor_node.cpp:693
 #: tools/editor/editor_node.cpp:715 tools/editor/editor_node.cpp:974
@@ -544,11 +529,11 @@ msgstr ""
 #: tools/editor/editor_node.cpp:1824 tools/editor/editor_node.cpp:1919
 #: tools/editor/editor_node.cpp:1964 tools/editor/editor_node.cpp:2580
 msgid "I see.."
-msgstr ""
+msgstr "なるほど.."
 
 #: tools/editor/io_plugins/editor_translation_import_plugin.cpp:316
 msgid "Ignore First Row"
-msgstr ""
+msgstr "最初の行を無視"
 
 #: tools/editor/editor_node.cpp:3510
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:648
@@ -557,849 +542,851 @@ msgstr ""
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:529
 #: tools/editor/project_manager.cpp:731
 msgid "Import"
-msgstr ""
+msgstr "インポート"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:532
 msgid "Import 3D Scene"
-msgstr ""
+msgstr "インポート3Dシーン"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1367
 msgid "Import Animations..."
-msgstr ""
+msgstr "インポートアニメーション..."
 
 #: tools/editor/io_plugins/editor_sample_import_plugin.cpp:310
 msgid "Import Audio Samples"
-msgstr ""
+msgstr "インポートの音声サンプル"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1454
 msgid "Import Img: "
-msgstr ""
+msgstr "インポートIMG："
 
 #: tools/editor/io_plugins/editor_translation_import_plugin.cpp:374
 msgid "Import Languages:"
-msgstr ""
+msgstr "インポートの言語："
 
 #: tools/editor/editor_node.cpp:3517
 msgid "Import Old Scene"
-msgstr ""
+msgstr "インポートオールドシーン"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1329
 #: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:279
 msgid "Import Scene"
-msgstr ""
+msgstr "輸入シーン"
 
 #: tools/editor/editor_node.cpp:4069
 msgid "Import Settings"
-msgstr ""
+msgstr "インポート設定"
 
 #: tools/editor/editor_node.cpp:3931
 msgid "Import Templates from ZIP file"
-msgstr ""
+msgstr "ZIPファイルからのインポートテンプレート"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:465
 msgid "Import Textures"
-msgstr ""
+msgstr "インポートテクスチャ"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:556
 msgid "Import Textures for 2D"
-msgstr ""
+msgstr "2Dのインポートテクスチャ"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:563
 msgid "Import Textures for 3D"
-msgstr ""
+msgstr "3Dのインポートテクスチャ"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:548
 msgid "Import Textures for Atlas (2D)"
-msgstr ""
+msgstr "アトラスのインポートテクスチャ（2D）"
 
 #: tools/editor/editor_node.cpp:3509
 msgid "Import assets to the project."
-msgstr ""
+msgstr "プロジェクトにアセットをインポートします。"
 
 #: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:297
 msgid "Import from Scene"
-msgstr ""
+msgstr "シーンからのインポート"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:602
 msgid "Import:"
-msgstr ""
+msgstr "インポート："
 
 #: tools/editor/import_settings.cpp:280
 msgid "Imported Resources"
-msgstr ""
+msgstr "インポートされたリソース"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1370
 msgid "Importing Scene.."
-msgstr ""
+msgstr "シーンをインポート.."
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2200
 msgid "Insert Key"
-msgstr ""
+msgstr "挿入キー"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2201
 msgid "Insert Key (Existing Tracks)"
-msgstr ""
+msgstr "挿入キー（既存のトラック）"
 
 #: tools/editor/editor_node.cpp:3718
 msgid "Inspector"
-msgstr ""
+msgstr "検査官"
 
 #: tools/editor/editor_node.cpp:3659
 msgid "Install Export Templates"
-msgstr ""
+msgstr "エクスポートテンプレートをインストール"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:788
 msgid "Invalid font custom source. "
-msgstr ""
+msgstr "無効なフォントカスタムソース。"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:745
 msgid "Invalid font size. "
-msgstr ""
+msgstr "無効なフォントサイズ。"
 
 #: tools/editor/io_plugins/editor_translation_import_plugin.cpp:67
 msgid "Invalid source!"
-msgstr ""
+msgstr "無効なソース！"
 
 #: tools/editor/io_plugins/editor_translation_import_plugin.cpp:78
 msgid "Invalid translation source!"
-msgstr ""
+msgstr "無効な翻訳ソース！"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:344
 msgid "Invalid/Broken Script for Post-Import."
-msgstr ""
+msgstr "インポート後には無効/ブロークンスクリプト。"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1417
 msgid "Invalid/Broken Script for Post-Import: '"
-msgstr ""
+msgstr "インポート後には無効/ブロークンスクリプト： '"
 
 #: tools/editor/plugins/item_list_editor_plugin.cpp:263
 msgid "Item List"
-msgstr ""
+msgstr "アイテム一覧"
 
 #: tools/editor/plugins/item_list_editor_plugin.cpp:229
 msgid "Items"
-msgstr ""
+msgstr "アイテム"
 
 #: tools/editor/io_plugins/editor_translation_import_plugin.cpp:90
 msgid "Language"
-msgstr ""
+msgstr "言語"
 
 #: tools/editor/animation_editor.cpp:3162
 msgid "Len(s):"
-msgstr ""
+msgstr "レン（秒）："
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:943
 msgid "Load an animation from disk."
-msgstr ""
+msgstr "ディスクからアニメーションをロードします。"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2210
 msgid "Loc+Rot+Scale"
-msgstr ""
+msgstr "LOC +腐敗+スケール"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:150
 msgid "Matches:"
-msgstr ""
+msgstr "マッチ："
 
 #: tools/editor/editor_node.cpp:3955
 msgid "Merge With Existing"
-msgstr ""
+msgstr "既存のマージ"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1497
 msgid "Merging.."
-msgstr ""
+msgstr "マージ.."
 
 #: tools/editor/editor_node.cpp:3459
 msgid "MeshLibrary.."
-msgstr ""
+msgstr "MeshLibrary .."
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:336
 msgid "Mix"
-msgstr ""
+msgstr "ミックス"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1359
 msgid "Mix Node"
-msgstr ""
+msgstr "ノードを混在させる"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1225
 #: tools/editor/plugins/script_editor_plugin.cpp:1361
 msgid "Move Left"
-msgstr ""
+msgstr "左右に移動"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2132
 msgid "Move Mode (W)"
-msgstr ""
+msgstr "移動モード（W）"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1226
 #: tools/editor/plugins/script_editor_plugin.cpp:1362
 msgid "Move Right"
-msgstr ""
+msgstr "右側の動き"
 
 #: tools/editor/animation_editor.cpp:3219
 msgid "Move current track dosn."
-msgstr ""
+msgstr "現在のトラックdosnを移動します。"
 
 #: tools/editor/animation_editor.cpp:3212
 msgid "Move current track up."
-msgstr ""
+msgstr "現在のトラックを上に移動。"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:217
-msgid ""
-"NOTICE: You are not forced to import textures for 2D projects. Just copy "
-"your .jpg or .png files to your project, and change export options later. "
-"Atlases can be generated on export too."
-msgstr ""
+msgid "NOTICE: You are not forced to import textures for 2D projects. Just copy your .jpg or .png files to your project, and change export options later. Atlases can be generated on export too."
+msgstr "注意：あなたは、2Dプロジェクトのためのテクスチャをインポートすることを余儀なくされていません。ちょうどあなたのプロジェクトに。JPGや。PNGファイルをコピーし、後でエクスポートオプションを変更してください。アトラスは、あまりにも輸出で生成することができます。"
 
 #: tools/editor/editor_node.cpp:3580
 msgid "NTV"
-msgstr ""
+msgstr "日本テレビ"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:242
 msgid "New Anim"
-msgstr ""
+msgstr "新しいアニム"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:239
 msgid "New Animation Name:"
-msgstr ""
+msgstr "新しいアニメーション名："
 
 #: tools/editor/project_manager.cpp:726
 msgid "New Project"
-msgstr ""
+msgstr "新規プロジェクト"
 
 #: tools/editor/editor_node.cpp:3440
 msgid "New Scene"
-msgstr ""
+msgstr "新しいシーン"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:274
 msgid "New name:"
-msgstr ""
+msgstr "新しい名前："
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:1065
 msgid "Next (Auto Queue):"
-msgstr ""
+msgstr "次の（オートキュー）："
 
 #: tools/editor/editor_node.cpp:1495
-msgid ""
-"No main scene has ever been defined.\n"
+msgid "No main scene has ever been defined.\n"
 "Select one from \"Project Settings\" under the 'application' category."
-msgstr ""
+msgstr "いいえメインシーンは、これまで定義されていません。\n"
+"「アプリケーション」カテゴリの下の「プロジェクト設定」から選択します。"
 
 #: tools/editor/io_plugins/editor_sample_import_plugin.cpp:248
 msgid "No samples to import!"
-msgstr ""
+msgstr "インポートするサンプルません！"
 
 #: tools/editor/editor_node.cpp:1449
 msgid "No scene to run exists."
-msgstr ""
+msgstr "実行に、シーンは存在しません。"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:473
 msgid "No source font file!"
-msgstr ""
+msgstr "ソースフォントファイルません！"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:479
 msgid "No target font resource!"
-msgstr ""
+msgstr "ターゲット·フォントリソースん！"
 
 #: tools/editor/editor_node.cpp:3482
 msgid "Node"
-msgstr ""
+msgstr "ノード"
 
 #: tools/editor/editor_node.cpp:3756
 msgid "Object properties."
-msgstr ""
+msgstr "オブジェクトのプロパティ。"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1358
 msgid "OneShot Node"
-msgstr ""
+msgstr "をOneShotノード"
 
 #: tools/editor/editor_node.cpp:1991
 #: tools/editor/plugins/script_editor_plugin.cpp:1303
 msgid "Open"
-msgstr ""
+msgstr "オープン"
 
 #: tools/editor/editor_node.cpp:3975
 msgid "Open & Run a Script"
-msgstr ""
+msgstr "オープン·スクリプトの実行"
 
 #: tools/editor/editor_node.cpp:2158
-msgid ""
-"Open Project Manager? \n"
+msgid "Open Project Manager? \n"
 "(Unsaved changes will be lost)"
-msgstr ""
+msgstr "開いているプロジェクトマネージャ？\n"
+"（未保存の変更は失われます）"
 
 #: tools/editor/editor_node.cpp:3446
 msgid "Open Recent"
-msgstr ""
+msgstr "最近のオープン"
 
 #: tools/editor/editor_node.cpp:1636
 msgid "Open Scene"
-msgstr ""
+msgstr "開かれているシーン"
 
 #: tools/editor/editor_node.cpp:3441
 msgid "Open Scene.."
-msgstr ""
+msgstr "開かれているシーン.."
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:978
-msgid ""
-"Open animation editor.\n"
+msgid "Open animation editor.\n"
 "Property editor will displays all editable keys too."
-msgstr ""
+msgstr "オープンなアニメーションエディタ。\n"
+"プロパティエディタは、あまりにも編集可能なすべてのキーが表示されます。"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:627
 #: tools/editor/io_plugins/editor_sample_import_plugin.cpp:369
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:575
 msgid "Options:"
-msgstr ""
+msgstr "オプション："
 
 #: tools/editor/editor_node.cpp:3971
 msgid "Password:"
-msgstr ""
+msgstr "パスワード："
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1317
 msgid "Paste"
-msgstr ""
+msgstr "ペースト"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2213
 msgid "Paste Pose"
-msgstr ""
+msgstr "ペーストは、ポーズ"
 
 #: tools/editor/editor_node.cpp:3567
 msgid "Pause the scene (F7)."
-msgstr ""
+msgstr "シーン（F7）を一時停止します。"
 
 #: tools/editor/editor_node.cpp:3602
 msgid "Play custom scene ("
-msgstr ""
+msgstr "（カスタムシーンを再生する"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:985
 msgid "Play selected animation."
-msgstr ""
+msgstr "選択したアニメーションを再生します。"
 
 #: tools/editor/editor_node.cpp:3594
 msgid "Play the edited scene (F6)."
-msgstr ""
+msgstr "編集されたシーン（F6）を再生します。"
 
 #: tools/editor/editor_node.cpp:1775
 msgid "Please save the scene first."
-msgstr ""
+msgstr "最初のシーンを保存してください。"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:319
 msgid "Please specify a valid target import path!"
-msgstr ""
+msgstr "有効なターゲットインポートパスを指定してください！"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2203
 msgid "Pos"
-msgstr ""
+msgstr "POS"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2206
 msgid "Pos+Rot"
-msgstr ""
+msgstr "POS +腐敗"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2208
 msgid "Pos+Scale"
-msgstr ""
+msgstr "POS +スケール"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:618
 msgid "Post-Process Script:"
-msgstr ""
+msgstr "後処理スクリプト："
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1393
 msgid "Post-Processing Scene.."
-msgstr ""
+msgstr "シーンを後処理.."
 
 #: tools/editor/plugins/camera_editor_plugin.cpp:91
 msgid "Preview"
-msgstr ""
+msgstr "プレビュー"
 
 #: tools/editor/editor_node.cpp:3469
 msgid "Project Settings"
-msgstr ""
+msgstr "プロジェクトの設定"
 
 #: tools/editor/property_editor.cpp:2991
 msgid "Property"
-msgstr ""
+msgstr "財産"
 
 #: tools/editor/editor_node.cpp:1643 tools/editor/editor_node.cpp:3448
 msgid "Quick Open Scene.."
-msgstr ""
+msgstr "クイックオープンシーン.."
 
 #: tools/editor/editor_node.cpp:1650 tools/editor/editor_node.cpp:3449
 msgid "Quick Open Script.."
-msgstr ""
+msgstr "クイックオープンスクリプト.."
 
 #: tools/editor/editor_node.cpp:1977 tools/editor/editor_node.cpp:3472
 msgid "Quit"
-msgstr ""
+msgstr "やめる"
 
 #: tools/editor/editor_node.cpp:3471
 msgid "Quit to Project List"
-msgstr ""
+msgstr "プロジェクト一覧に終了"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:353
 msgid "Random Restart (s):"
-msgstr ""
+msgstr "ランダムリスタート（S）："
 
 #: tools/editor/editor_node.cpp:3893
 msgid "Re-Import"
-msgstr ""
+msgstr "再インポート"
 
 #: tools/editor/project_manager.cpp:677
 msgid "Recent Projects:"
-msgstr ""
+msgstr "最近使ったプロジェクト："
 
 #: tools/editor/editor_node.cpp:3465
 #: tools/editor/plugins/script_editor_plugin.cpp:1313
 msgid "Redo"
-msgstr ""
+msgstr "やり直す"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1398
 msgid "Reload"
-msgstr ""
+msgstr "リロード"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:967
 msgid "Remove Animation"
-msgstr ""
+msgstr "アニメーションを削除"
 
 #: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:247
 msgid "Remove Item "
-msgstr ""
+msgstr "項目を削除"
 
 #: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:295
 msgid "Remove Selected Item"
-msgstr ""
+msgstr "選択した項目を削除する"
 
 #: tools/editor/animation_editor.cpp:3226
 msgid "Remove selected track."
-msgstr ""
+msgstr "選択したトラックを削除します。"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:962
 msgid "Rename Animation"
-msgstr ""
+msgstr "アニメーションの名前を変更"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1330
 msgid "Replace.."
-msgstr ""
+msgstr "交換してください.."
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1400
 msgid "Resave"
-msgstr ""
+msgstr "再保存"
 
 #: tools/editor/editor_node.cpp:3503
 msgid "Resource"
-msgstr ""
+msgstr "リソース"
 
 #: tools/editor/editor_node.cpp:3694
 msgid "Resources"
-msgstr ""
+msgstr "資源"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:347
 msgid "Restart (s):"
-msgstr ""
+msgstr "リスタート（S）："
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2204
 msgid "Rot"
-msgstr ""
+msgstr "腐敗"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2209
 msgid "Rot+Scale"
-msgstr ""
+msgstr "腐敗+スケール"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2138
 msgid "Rotate Mode (E)"
-msgstr ""
+msgstr "繰り返しモード（E）"
 
 #: tools/editor/project_manager.cpp:704
 msgid "Run"
-msgstr ""
+msgstr "実行"
 
 #: tools/editor/editor_node.cpp:3467
 msgid "Run Script"
-msgstr ""
+msgstr "スクリプトの実行"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1402
 msgid "Running Custom Script.."
-msgstr ""
+msgstr "カスタムスクリプトを実行している.."
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:568
 msgid "Same as Target Scene"
-msgstr ""
+msgstr "ターゲットシーンと同じ"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1304
 msgid "Save"
-msgstr ""
+msgstr "保存"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1306
 msgid "Save All"
-msgstr ""
+msgstr "すべて保存"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1305
 msgid "Save As.."
-msgstr ""
+msgstr "名前を付けて保存.."
 
 #: tools/editor/editor_node.cpp:3442
 msgid "Save Scene"
-msgstr ""
+msgstr "シーンを保存"
 
 #: tools/editor/editor_node.cpp:3443
 msgid "Save Scene As.."
-msgstr ""
+msgstr "シーンを付けて保存.."
 
 #: tools/editor/io_plugins/editor_sample_import_plugin.cpp:271
 msgid "Save path is empty!"
-msgstr ""
+msgstr "保存パスが空である！"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1524
 msgid "Saving.."
-msgstr ""
+msgstr "節約.."
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2205
 msgid "Scale"
-msgstr ""
+msgstr "スケール"
 
 #: tools/editor/animation_editor.cpp:3345
 msgid "Scale Ratio:"
-msgstr ""
+msgstr "スケール比："
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:1019
 msgid "Scale animation playback globally for the node."
-msgstr ""
+msgstr "ノードに対してグローバルにアニメーションの再生をスケール。"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:312
 msgid "Scale:"
-msgstr ""
+msgstr "スケール："
 
 #: tools/editor/project_manager.cpp:712
 msgid "Scan"
-msgstr ""
+msgstr "スキャン"
 
 #: tools/editor/editor_node.cpp:3422 tools/editor/editor_node.cpp:3690
 msgid "Scene"
-msgstr ""
+msgstr "シーン"
 
 #: tools/editor/editor_node.cpp:1460
 msgid "Scene has never been saved. Save before running!"
-msgstr ""
+msgstr "シーンが保存されていない。実行する前に保存！"
 
 #: tools/editor/plugins/script_editor_plugin.h:226
 msgid "Script"
-msgstr ""
+msgstr "スクリプト"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1327
 msgid "Search"
-msgstr ""
+msgstr "検索"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:146
 msgid "Search:"
-msgstr ""
+msgstr "検索："
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:1004
 msgid "Seek animation (when stopped)."
-msgstr ""
+msgstr "（停止中）のアニメーションを求めています。"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1319
 msgid "Select All"
-msgstr ""
+msgstr "すべて選択"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2126
 msgid "Select Mode (Q)\n"
-msgstr ""
+""
+msgstr "選択モード（Q）\n"
+""
 
 #: tools/editor/editor_node.cpp:3610
 msgid "Serve the project filesystem to remote clients."
-msgstr ""
+msgstr "リモートクライアントにプロジェクトファイルシステムを提供しています。"
 
 #: tools/editor/editor_node.cpp:1375
 msgid "Set Params"
-msgstr ""
+msgstr "のParamsを設定"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2220
 msgid "Set a Value"
-msgstr ""
+msgstr "値を設定"
 
 #: tools/editor/editor_node.cpp:3647
 msgid "Settings"
-msgstr ""
+msgstr "[設定]"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:569
 msgid "Shared"
-msgstr ""
+msgstr "シェアード"
 
 #: tools/editor/editor_node.cpp:3657
 msgid "Show Animation"
-msgstr ""
+msgstr "表示アニメーション"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1347
 msgid "Show Debugger"
-msgstr ""
+msgstr "デバッガの表示"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2225
 msgid "Snap (Pixels):"
-msgstr ""
+msgstr "スナップ（ピクセル）："
 
 #: tools/editor/io_plugins/editor_translation_import_plugin.cpp:310
 msgid "Source CSV:"
-msgstr ""
+msgstr "ソースCSV："
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:585
 msgid "Source Font Size:"
-msgstr ""
+msgstr "ソース文字サイズ："
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:583
 msgid "Source Font:"
-msgstr ""
+msgstr "ソースフォント："
 
 #: tools/editor/io_plugins/editor_sample_import_plugin.cpp:318
 msgid "Source Sample(s):"
-msgstr ""
+msgstr "ソースサンプル（S）："
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:542
 msgid "Source Scene:"
-msgstr ""
+msgstr "ソースシーン："
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:474
 msgid "Source Texture(s):"
-msgstr ""
+msgstr "ソーステクスチャ（S）："
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:303
 msgid "Source path is empty."
-msgstr ""
+msgstr "ソースパスは空です。"
 
 #: tools/editor/editor_node.cpp:3813
 msgid "Spins when the editor window repaints!"
-msgstr ""
+msgstr "エディタウィンドウの再描画時に回転！"
 
 #: tools/editor/editor_node.cpp:1606
 msgid "Start a New Scene? (Current will be lost)"
-msgstr ""
+msgstr "新しいシーンを開始？ （現在は失われます）"
 
 #: tools/editor/editor_node.cpp:3557
 msgid "Start the scene (F5)."
-msgstr ""
+msgstr "シーン（F5）を起動します。"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:364
 msgid "Start!"
-msgstr ""
+msgstr "スタート！"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1342
 msgid "Step Into"
-msgstr ""
+msgstr "足を踏み入れる"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1341
 msgid "Step Over"
-msgstr ""
+msgstr "ステップオーバーする"
 
 #: tools/editor/animation_editor.cpp:3177
 msgid "Step(s):"
-msgstr ""
+msgstr "工程（秒）："
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:992
 msgid "Stop animation playback."
-msgstr ""
+msgstr "アニメーションの再生を停止します。"
 
 #: tools/editor/editor_node.cpp:3575
 msgid "Stop the scene (F8)."
-msgstr ""
+msgstr "シーン（F8）を停止します。"
 
 #: tools/editor/editor_node.cpp:3515
 msgid "Sub-Scene"
-msgstr ""
+msgstr "サブシーン"
 
 #: tools/editor/editor_node.cpp:3456
 msgid "Subscene.."
-msgstr ""
+msgstr "サブシーン.."
 
 #: tools/editor/io_plugins/editor_sample_import_plugin.cpp:331
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:496
 #: tools/editor/io_plugins/editor_translation_import_plugin.cpp:328
 msgid "Target Path:"
-msgstr ""
+msgstr "パスのターゲット："
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:555
 msgid "Target Scene:"
-msgstr ""
+msgstr "ターゲットシーン："
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:571
 msgid "Target Texture Folder:"
-msgstr ""
+msgstr "ターゲットテクスチャフォルダ："
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:309
 msgid "Target path is empty."
-msgstr ""
+msgstr "ターゲットパスは空です。"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:616
 msgid "Test: "
-msgstr ""
+msgstr "テスト："
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:191
 msgid "Texture Compression Quality (WebP):"
-msgstr ""
+msgstr "テクスチャ圧縮品質（WebP）："
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:171
 msgid "Texture Format"
-msgstr ""
+msgstr "テクスチャフォーマット"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:214
 msgid "Texture Options"
-msgstr ""
+msgstr "テクスチャのオプション"
 
 #: tools/editor/editor_node.cpp:3913
 msgid "Thanks so Much!"
-msgstr ""
+msgstr "本当にありがとうございました！"
 
 #: tools/editor/editor_node.cpp:3915
 msgid "Thanks!"
-msgstr ""
+msgstr "ありがとう！"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1390
-msgid ""
-"The following files are newer on disk.\n"
+msgid "The following files are newer on disk.\n"
 "What action should be taken?:"
-msgstr ""
+msgstr "以下のファイルは、ディスク上のより新しいです。\n"
+"どのようなアクションが取られるべきか。"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:603
 msgid "The quick brown fox jumps over the lazy dog."
-msgstr ""
+msgstr "速い茶色のキツネは、のろまなイヌに飛びかかった。"
 
 #: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:293
 msgid "Theme"
-msgstr ""
+msgstr "テーマ"
 
 #: tools/editor/editor_node.cpp:1825
 msgid "This operation can't be done on instanced scenes."
-msgstr ""
+msgstr "この操作は、インスタンス化されたシーンで行うことはできません。"
 
 #: tools/editor/editor_node.cpp:1799 tools/editor/editor_node.cpp:1920
 msgid "This operation can't be done without a scene."
-msgstr ""
+msgstr "この操作は、シーンなしで行うことができない。"
 
 #: tools/editor/editor_node.cpp:1965
 msgid "This operation can't be done without a selected node."
-msgstr ""
+msgstr "この操作では、選択したノードなしで行うことはできません。"
 
 #: tools/editor/editor_node.cpp:694 tools/editor/editor_node.cpp:1707
 #: tools/editor/editor_node.cpp:1757
 msgid "This operation can't be done without a tree root."
-msgstr ""
+msgstr "この操作は、ツリーのルートなしで実行することはできません。"
 
 #: tools/editor/editor_node.cpp:975 tools/editor/editor_node.cpp:1812
 msgid "This operation requieres a single selected node."
-msgstr ""
+msgstr "この操作では、単一の選択されたノードをrequieres。"
 
 #: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:184
 msgid "Thumbnail.."
-msgstr ""
+msgstr "サムネイル.."
 
 #: tools/editor/editor_node.cpp:3460
 msgid "TileSet.."
-msgstr ""
+msgstr "タイルセット.."
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1363
 msgid "TimeScale Node"
-msgstr ""
+msgstr "タイムスケールノード"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1364
 msgid "TimeSeek Node"
-msgstr ""
+msgstr "TimeSeekノード"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1339
 msgid "Toggle Breakpoint"
-msgstr ""
+msgstr "ブレークポイントの切り替え"
 
 #: tools/editor/animation_editor.cpp:3135
 msgid "Tracks.."
-msgstr ""
+msgstr "トラック.."
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1365
 msgid "Transition Node"
-msgstr ""
+msgstr "移行ノード"
 
 #: tools/editor/editor_node.cpp:3457
 msgid "Translatable Strings.."
-msgstr ""
+msgstr "翻訳可能な文字列.."
 
 #: tools/editor/io_plugins/editor_translation_import_plugin.cpp:390
 msgid "Translation"
-msgstr ""
+msgstr "翻訳"
 
 #: tools/editor/editor_node.cpp:764 tools/editor/editor_node.cpp:780
 #: tools/editor/editor_node.cpp:2678 tools/editor/editor_node.cpp:2692
 #: tools/editor/editor_node.cpp:2705
 msgid "Ugh"
-msgstr ""
+msgstr "あわや"
 
 #: tools/editor/editor_node.cpp:3464
 #: tools/editor/plugins/script_editor_plugin.cpp:1312
 msgid "Undo"
-msgstr ""
+msgstr "取り消す"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:725
 msgid "Unknown font format."
-msgstr ""
+msgstr "未知のフォントフォーマット。"
 
 #: tools/editor/editor_node.cpp:3894
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:622
 msgid "Update"
-msgstr ""
+msgstr "アップデート"
 
 #: tools/editor/editor_node.cpp:3817
 msgid "Update Always"
-msgstr ""
+msgstr "常に更新"
 
 #: tools/editor/editor_node.cpp:3818
 msgid "Update Changes"
-msgstr ""
+msgstr "アップデートの変更点"
 
 #: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:298
 msgid "Update from Scene"
-msgstr ""
+msgstr "シーンからのアップデート"
 
 #: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:257
 msgid "Update from existing scene?:\n"
-msgstr ""
+""
+msgstr "既存のシーンからの更新？：\n"
+""
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2171
 msgid "Use Pixel Snap"
-msgstr ""
+msgstr "ピクセルスナップを使用"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2168
 msgid "Use Snap"
-msgstr ""
+msgstr "スナップを使用してください"
 
 #: tools/editor/property_editor.cpp:2992
 msgid "Value"
-msgstr ""
+msgstr "値"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2182
 msgid "View"
-msgstr ""
+msgstr "ビュー"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1358
 msgid "Window"
-msgstr ""
+msgstr "ウィンドウ"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:437
 msgid "X-Fade Time (s):"
-msgstr ""
+msgstr "クロスフェード時間（s）："
 
 #: tools/editor/editor_node.cpp:1604 tools/editor/editor_node.cpp:2157
 msgid "Yes"
-msgstr ""
+msgstr "はい"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2188
 msgid "Zoom In"
-msgstr ""
+msgstr "ズームイン"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2189
 msgid "Zoom Out"
-msgstr ""
+msgstr "ズームアウトする"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2190
 msgid "Zoom Reset"
-msgstr ""
+msgstr "ズームリセット"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2191
 msgid "Zoom Set.."
-msgstr ""
+msgstr "ズームセット.."
 
 #: tools/editor/editor_node.cpp:862
 msgid "ok :("
-msgstr ""
+msgstr "OK：（"
+
