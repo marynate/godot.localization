@@ -44,4 +44,4 @@ Todo: Auto install language file (.po) to Godot editor.
 
 ![](http://oi57.tinypic.com/4smw7q.jpg)
 
-pls blame Goolge for bad translation :)
+please blame Google for funny translations :)
