@@ -34,3 +34,14 @@ You are also welcome to contribute to our [Godot online translation project](htt
 - __Install PO to Godot Editor__  
 Todo: Auto install language file (.po) to Godot editor.
 
+### Screeshots
+
+![](http://oi62.tinypic.com/13zzndv.jpg)
+
+![](http://oi62.tinypic.com/155kl05.jpg)
+
+![](http://oi62.tinypic.com/2qw0cpi.jpg)
+
+![](http://oi57.tinypic.com/4smw7q.jpg)
+
+pls blame Goolge for bad translation :)
