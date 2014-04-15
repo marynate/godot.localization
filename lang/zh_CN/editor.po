@@ -1,0 +1,1430 @@
+# SOME DESCRIPTIVE TITLE.
+# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
+# This file is distributed under the same license as the PACKAGE package.
+# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
+#
+msgid ""
+msgstr ""
+"Project-Id-Version: godot editor translation (zh_CN)\n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-03-27 19:33+0800\n"
+"PO-Revision-Date: 2014-03-27 19:33+0800\n"
+"Last-Translator: Mary Nate <mary.w.nate@gmail.com>\n"
+"Language-Team: marynate <mary.w.nate@gmail.com>\n"
+"Language: zh\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=1; plural=0;\n"
+"X-Poedit-Basepath: ../git/godot\n"
+
+#: tools/editor/editor_node.cpp:3931
+msgid "*.zip ; Zip Template Package"
+msgstr "*.zip ; Zip 模板包"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.h:323
+msgid "2D"
+msgstr "二维"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:605
+msgid "2D Texture"
+msgstr "二维贴图"
+
+#: tools/editor/plugins/spatial_editor_plugin.h:453
+msgid "3D"
+msgstr "三维"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:690
+msgid "3D Scene"
+msgstr "三维场景"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1583
+msgid "3D Scene Animation"
+msgstr "三维场景动画"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:609
+msgid "3D Texture"
+msgstr "三维贴图"
+
+#: tools/editor/editor_node.cpp:3655
+msgid "About"
+msgstr "关于"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:652
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:361
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:648
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:537
+msgid "Accept"
+msgstr "接受"
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:294
+msgid "Add Item"
+msgstr "添加项"
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:347
+msgid "Add to Project (engine.cfg)"
+msgstr "加入项目 (engine.cfg)"
+
+#: tools/editor/editor_node.cpp:3662
+msgid "Alerts when an external resource has changed."
+msgstr "当外部资源改变时提示."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:374
+msgid "Amount:"
+msgstr "数量:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1040
+msgid "Animation Name:"
+msgstr "动画名称:"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1357
+msgid "Animation Node"
+msgstr "动画节点"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:239
+msgid "Animation Options"
+msgstr "动画选项"
+
+#: tools/editor/animation_editor.cpp:3171
+msgid "Animation length (in seconds)."
+msgstr "动画长度(秒)"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1010
+msgid "Animation position (in seconds)."
+msgstr "动画位置(秒)"
+
+#: tools/editor/animation_editor.cpp:3145
+#: tools/editor/animation_editor.cpp:3157
+msgid "Animation zoom."
+msgstr "放大动画"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:329
+msgid "At least one file needed for Atlas."
+msgstr "最少需要一个文件."
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:614
+msgid "Atlas Texture"
+msgstr "贴图集"
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:385
+msgid "Audio Sample"
+msgstr "声音"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:342
+msgid "Auto Restart:"
+msgstr "自动重新开始:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:957
+msgid "Autoplay On Load"
+msgstr "加载时自动播放"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:335
+msgid "Blend"
+msgstr "混合"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:414
+msgid "Blend 0:"
+msgstr "混合 0:"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:422
+msgid "Blend 1:"
+msgstr "混合 1:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1063
+msgid "Blend Times: "
+msgstr "混合时间:"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1360
+msgid "Blend2 Node"
+msgstr "混合节点2"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1361
+msgid "Blend3 Node"
+msgstr "混合节点3"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1362
+msgid "Blend4 Node"
+msgstr "混合节点4"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:386
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:401
+msgid "Blend:"
+msgstr "混合:"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1344
+msgid "Break"
+msgstr "中断"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1460
+msgid "Can't import a file over itself: '"
+msgstr "无法导入文件覆盖自己:"
+
+#: tools/editor/editor_node.cpp:1055
+msgid "Can't load MeshLibrary for merging!."
+msgstr "无法加载用于合并的三维物体库!"
+
+#: tools/editor/editor_node.cpp:1089
+msgid "Can't load TileSet for merging!."
+msgstr "无法加载用于合并的图块集!"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:487
+msgid "Can't load/process source font"
+msgstr "无法加载/处理源字体"
+
+#: tools/editor/editor_node.cpp:1123
+msgid "Can't open export templates zip."
+msgstr "无法打开导出模板 zip."
+
+#: tools/editor/editor_node.cpp:432
+msgid "Can't open file for writing: "
+msgstr "无法打开可以写入的文件:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:267
+msgid "Change Animation Name:"
+msgstr "改变动画名称:"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1369
+msgid "Clear"
+msgstr "清除"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2214
+msgid "Clear Pose"
+msgstr "清楚姿势"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2221
+#: tools/editor/plugins/script_editor_plugin.cpp:1223
+#: tools/editor/plugins/script_editor_plugin.cpp:1359
+msgid "Close"
+msgstr "关闭"
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:89
+msgid "Column"
+msgstr "列"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1321
+msgid "Complete Symbol"
+msgstr "智能提示"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2169
+msgid "Configure Snap.."
+msgstr "配置吸附"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1345
+msgid "Continue"
+msgstr "继续"
+
+#: tools/editor/editor_node.cpp:3449
+msgid "Convert To.."
+msgstr "转换为.."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1316
+msgid "Copy"
+msgstr "复制"
+
+#: tools/editor/editor_node.cpp:1374
+msgid "Copy Params"
+msgstr "复制参数"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2212
+msgid "Copy Pose"
+msgstr "负责姿势"
+
+#: tools/editor/editor_node.cpp:1539
+msgid "Could not start subprocess!"
+msgstr "无法启动子进程!"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:495
+msgid "Could't save font."
+msgstr "无法保存字体."
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:335
+msgid "Couldn't load Post-Import Script."
+msgstr "无法加载后处理脚本。"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1411
+msgid "Couldn't load post-import script: '"
+msgstr "无法加载后处理脚本:'"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1465
+msgid "Couldn't localize path: '"
+msgstr "无法定位路径:'"
+
+#: tools/editor/editor_node.cpp:716
+msgid ""
+"Couldn't save scene. Likely dependencies (instances) couldn't be satisfied."
+msgstr "无法保存场景! 可能是有依赖项(实例对象)不满足要求."
+
+#: tools/editor/editor_node.cpp:997
+msgid ""
+"Couldn't save subscene. Likely dependencies (instances) couldn't be "
+"satisfied."
+msgstr "无法保存子场景. 可能是有依赖项(实例对象)不满足要求."
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:156
+msgid "Creating Mesh Library"
+msgstr "创建三维物体库"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:485
+msgid "Crop empty space."
+msgstr "裁减空白空间."
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1066
+msgid "Cross-Animation Blend Times"
+msgstr "交叉动画混合时间"
+
+#: tools/editor/editor_node.cpp:1993
+msgid "Current scene not saved. Open anyway?"
+msgstr "当场场景未保存. 是否继续?"
+
+#: tools/editor/editor_node.cpp:1516
+msgid "Current scene was never saved, please save scene before running."
+msgstr "当前场景还未保存过, 请至少保存过一次后再运行."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:444
+msgid "Current:"
+msgstr "当前:"
+
+#: tools/editor/animation_editor.cpp:3187
+msgid "Cursor step snap (in seconds)."
+msgstr "光标步进吸附(秒)"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1315
+msgid "Cut"
+msgstr "剪切"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1338
+msgid "Debug"
+msgstr "调试"
+
+#: tools/editor/editor_node.cpp:3961
+msgid "Debug:"
+msgstr "调试:"
+
+#: tools/editor/editor_node.cpp:3612
+msgid "Deploy dumb clients when the File Server is active."
+msgstr "当文件服务器激活时部属空项目."
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:600
+msgid "Dest Resource:"
+msgstr "目标资源"
+
+#: tools/editor/editor_node.cpp:2904
+msgid ""
+"Discard current scene and open:\n"
+"'"
+msgstr "不保存当场场景并打开:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:953
+msgid "Display list of animations in player."
+msgstr "显示动画列表"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2126
+msgid ""
+"Drag: Rotate\n"
+"Alt+Drag: Move\n"
+"Press 'v' to Move Pivot (while moving)"
+msgstr ""
+"拖动:旋转\n"
+"Alt+拖动:移动\n"
+"按下'v'键移动中心轴"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:948
+msgid "Duplicate Animation"
+msgstr "复制动画"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:348
+msgid "ERROR: Animation Name Already Exists!"
+msgstr "错误: 动画名称已存在!"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:337
+msgid "ERROR: Invalid animation name!"
+msgstr "错误：无效的动画名称!"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1311
+#: tools/editor/project_manager.cpp:698
+msgid "Edit"
+msgstr "编辑"
+
+#: tools/editor/plugins/item_list_editor_plugin.cpp:230
+msgid "Edit Items"
+msgstr "编辑项"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1469
+msgid "Edit Node Filters"
+msgstr "编辑节点过滤器"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:971
+msgid "Edit Target Blend Times"
+msgstr "编辑目标混合时间"
+
+#: tools/editor/editor_node.cpp:3648
+msgid "Editor Settings"
+msgstr "编辑器设置"
+
+#: tools/editor/editor_node.cpp:3958
+msgid "Enable Debugging"
+msgstr "允许调试"
+
+#: tools/editor/animation_editor.cpp:3205
+msgid "Enable editing of individual keys by clicking them."
+msgstr "允许单击关键帧开始编辑"
+
+#: tools/editor/animation_editor.cpp:3196
+msgid "Enable/Disable looping in animation."
+msgstr "是否允许循环播放"
+
+#: tools/editor/project_manager.cpp:737
+msgid "Erase"
+msgstr "删除"
+
+#: tools/editor/editor_node.cpp:440
+msgid "Error Saving."
+msgstr "保存出错."
+
+#: tools/editor/editor_node.cpp:1026
+msgid "Error duplicating scene to save it."
+msgstr "无法复制并保存场景."
+
+#: tools/editor/editor_node.cpp:765
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:374
+msgid "Error importing scene."
+msgstr "导入场景出错"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:350
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:373
+msgid "Error importing: "
+msgstr "导入出错:"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:718
+msgid "Error initializing FreeType."
+msgstr "初始化FreeType出错."
+
+#: tools/editor/editor_node.cpp:781
+msgid "Error load scene to update."
+msgstr "无法加载用于更新的场景"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:729
+msgid "Error loading font."
+msgstr "导入字体出错."
+
+#: tools/editor/editor_node.cpp:2679
+msgid ""
+"Error loading scene, it must be inside the project path. Use 'Import' to "
+"open the scene, then save it inside the project path."
+msgstr ""
+"加载场景出错,场景必须位于项目目录下.可以用\"导入\"选项导入外部场景,然后保存到"
+"项目目录下."
+
+#: tools/editor/editor_node.cpp:2693 tools/editor/editor_node.cpp:2706
+msgid "Error loading scene."
+msgstr "加载场景出错."
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1427
+msgid "Error running Post-Import script: '"
+msgstr "允许后处理脚本出错："
+
+#: tools/editor/editor_node.cpp:1072
+msgid "Error saving MeshLibrary!."
+msgstr "保存MeshLibrary出错！"
+
+#: tools/editor/editor_node.cpp:1106
+msgid "Error saving TileSet!."
+msgstr "保存TileSet出错!"
+
+#: tools/editor/editor_node.cpp:1015
+msgid "Error saving scene."
+msgstr "保存场景出错."
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1049
+msgid "Error!"
+msgstr "错误！"
+
+#: tools/editor/project_manager.cpp:746
+msgid "Exit"
+msgstr "退出"
+
+#: tools/editor/editor_node.cpp:1979
+msgid "Exit the Editor?"
+msgstr "退出编辑器?"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2173
+msgid "Expand to Parent"
+msgstr "扩展到父物体"
+
+#: tools/editor/editor_node.cpp:3518
+msgid "Export"
+msgstr "导出"
+
+#: tools/editor/editor_node.cpp:3945
+msgid "Export Library"
+msgstr "导出库"
+
+#: tools/editor/editor_node.cpp:1934
+msgid "Export Mesh Library"
+msgstr "导出Mesh库"
+
+#: tools/editor/editor_node.cpp:3941
+msgid "Export Project"
+msgstr "导出项目"
+
+#: tools/editor/editor_node.cpp:1948
+msgid "Export Tile Set"
+msgstr "导出Tile Set"
+
+#: tools/editor/editor_node.cpp:3517
+msgid "Export the project to many platforms."
+msgstr "将项目导出到多个平台."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:321
+msgid "Fade In (s):"
+msgstr "淡入 (秒):"
+
+#: tools/editor/editor_node.cpp:863
+msgid "Failed to load resource."
+msgstr "无法加载资源."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1302
+msgid "File"
+msgstr "文件"
+
+#: tools/editor/editor_node.cpp:436
+msgid "File format requested unknown: "
+msgstr "未知的文件格式:"
+
+#: tools/editor/editor_node.cpp:3754
+msgid "FileSystem"
+msgstr "文件系统"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1482
+msgid "Filters.."
+msgstr "过滤器:"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1329
+msgid "Find Next"
+msgstr "寻找下一个"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1328
+msgid "Find.."
+msgstr "寻找..."
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:1320
+msgid "Font"
+msgstr "字体"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:640
+msgid "Font Import"
+msgstr "导入字体"
+
+#: tools/editor/editor_node.cpp:3743
+msgid "Go to the next edited object in history."
+msgstr "转到下一个历史中的编辑物体."
+
+#: tools/editor/editor_node.cpp:3736
+msgid "Go to the previous edited object in history."
+msgstr "转到前一个历史中的编辑物体."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1332
+msgid "Goto Function.."
+msgstr "转到函数..."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1333
+msgid "Goto Line.."
+msgstr "转到行..."
+
+#: tools/editor/editor_node.cpp:3439
+msgid "Goto Prev. Scene"
+msgstr "转到前一个场景"
+
+#: tools/editor/editor_help.h:180
+msgid "Help"
+msgstr "帮助"
+
+#: tools/editor/editor_node.cpp:426 tools/editor/editor_node.cpp:693
+#: tools/editor/editor_node.cpp:715 tools/editor/editor_node.cpp:974
+#: tools/editor/editor_node.cpp:996 tools/editor/editor_node.cpp:1014
+#: tools/editor/editor_node.cpp:1025 tools/editor/editor_node.cpp:1054
+#: tools/editor/editor_node.cpp:1071 tools/editor/editor_node.cpp:1088
+#: tools/editor/editor_node.cpp:1105 tools/editor/editor_node.cpp:1122
+#: tools/editor/editor_node.cpp:1448 tools/editor/editor_node.cpp:1459
+#: tools/editor/editor_node.cpp:1494 tools/editor/editor_node.cpp:1515
+#: tools/editor/editor_node.cpp:1538 tools/editor/editor_node.cpp:1706
+#: tools/editor/editor_node.cpp:1756 tools/editor/editor_node.cpp:1774
+#: tools/editor/editor_node.cpp:1798 tools/editor/editor_node.cpp:1811
+#: tools/editor/editor_node.cpp:1824 tools/editor/editor_node.cpp:1919
+#: tools/editor/editor_node.cpp:1964 tools/editor/editor_node.cpp:2580
+msgid "I see.."
+msgstr "好吧.."
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:316
+msgid "Ignore First Row"
+msgstr "忽视第一行"
+
+#: tools/editor/editor_node.cpp:3504
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:648
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:356
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:593
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:529
+#: tools/editor/project_manager.cpp:731
+msgid "Import"
+msgstr "导入"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:532
+msgid "Import 3D Scene"
+msgstr "导入三维场景"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1367
+msgid "Import Animations..."
+msgstr "导入动画..."
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:310
+msgid "Import Audio Samples"
+msgstr "导入声音"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1454
+msgid "Import Img: "
+msgstr "导入图像:"
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:374
+msgid "Import Languages:"
+msgstr "导入语言:"
+
+#: tools/editor/editor_node.cpp:3511
+msgid "Import Old Scene"
+msgstr "导入旧场景"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1329
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:279
+msgid "Import Scene"
+msgstr "导入场景"
+
+#: tools/editor/editor_node.cpp:4063
+msgid "Import Settings"
+msgstr "导入设置"
+
+#: tools/editor/editor_node.cpp:3925
+msgid "Import Templates from ZIP file"
+msgstr "从ZIP 文件安装模板"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:465
+msgid "Import Textures"
+msgstr "导入贴图"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:556
+msgid "Import Textures for 2D"
+msgstr "为二维导入贴图"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:563
+msgid "Import Textures for 3D"
+msgstr "为三维导入贴图"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:548
+msgid "Import Textures for Atlas (2D)"
+msgstr "为贴图集导入贴图 (二维)"
+
+#: tools/editor/editor_node.cpp:3503
+msgid "Import assets to the project."
+msgstr "导入资源到项目中."
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:297
+msgid "Import from Scene"
+msgstr "从场景中导入"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:602
+msgid "Import:"
+msgstr "导入:"
+
+#: tools/editor/import_settings.cpp:280
+msgid "Imported Resources"
+msgstr "导入的资源"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1370
+msgid "Importing Scene.."
+msgstr "导入场景中..."
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2200
+msgid "Insert Key"
+msgstr "插入关键帧"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2201
+msgid "Insert Key (Existing Tracks)"
+msgstr "插入关键帧（已有动画通道）"
+
+#: tools/editor/editor_node.cpp:3712
+msgid "Inspector"
+msgstr "属性"
+
+#: tools/editor/editor_node.cpp:3653
+msgid "Install Export Templates"
+msgstr "安装导出模板"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:788
+msgid "Invalid font custom source. "
+msgstr "无效的字体来源。"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:745
+msgid "Invalid font size. "
+msgstr "无效的字体大小"
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:67
+msgid "Invalid source!"
+msgstr "无效来源"
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:78
+msgid "Invalid translation source!"
+msgstr "无效的翻译来源"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:344
+msgid "Invalid/Broken Script for Post-Import."
+msgstr "无效的后处理脚本."
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1417
+msgid "Invalid/Broken Script for Post-Import: '"
+msgstr "无效的后处理脚本:'"
+
+#: tools/editor/plugins/item_list_editor_plugin.cpp:263
+msgid "Item List"
+msgstr "项列表"
+
+#: tools/editor/plugins/item_list_editor_plugin.cpp:229
+msgid "Items"
+msgstr "项"
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:90
+msgid "Language"
+msgstr "语言"
+
+#: tools/editor/animation_editor.cpp:3162
+msgid "Len(s):"
+msgstr "长度(秒)"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:943
+msgid "Load an animation from disk."
+msgstr "从磁盘加载动画."
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2210
+msgid "Loc+Rot+Scale"
+msgstr "位置+旋转+缩放"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:150
+msgid "Matches:"
+msgstr "匹配:"
+
+#: tools/editor/editor_node.cpp:3949
+msgid "Merge With Existing"
+msgstr "和已有的合并"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1497
+msgid "Merging.."
+msgstr "合并..."
+
+#: tools/editor/editor_node.cpp:3453
+msgid "MeshLibrary.."
+msgstr "三维物体库.."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:336
+msgid "Mix"
+msgstr "混合"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1359
+msgid "Mix Node"
+msgstr "混合节点"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1225
+#: tools/editor/plugins/script_editor_plugin.cpp:1361
+msgid "Move Left"
+msgstr "左移"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2132
+msgid "Move Mode (W)"
+msgstr "移动模式(W)"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1226
+#: tools/editor/plugins/script_editor_plugin.cpp:1362
+msgid "Move Right"
+msgstr "右移"
+
+#: tools/editor/animation_editor.cpp:3219
+msgid "Move current track dosn."
+msgstr "当前通道下移."
+
+#: tools/editor/animation_editor.cpp:3212
+msgid "Move current track up."
+msgstr "当前通道上移."
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:217
+msgid ""
+"NOTICE: You are not forced to import textures for 2D projects. Just copy "
+"your .jpg or .png files to your project, and change export options later. "
+"Atlases can be generated on export too."
+msgstr ""
+"注意：你不一定需要导入贴图。只要将.jpg或.png拷入项目中就可以了。你可以之后再"
+"更改导入设置。贴图集可以在项目导出时生成。"
+
+#: tools/editor/editor_node.cpp:3574
+msgid "NTV"
+msgstr "NTV"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:242
+msgid "New Anim"
+msgstr "新动画"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:239
+msgid "New Animation Name:"
+msgstr "新动画名称:"
+
+#: tools/editor/project_manager.cpp:726
+msgid "New Project"
+msgstr "新项目"
+
+#: tools/editor/editor_node.cpp:3434
+msgid "New Scene"
+msgstr "新场景"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:274
+msgid "New name:"
+msgstr "新名称:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1065
+msgid "Next (Auto Queue):"
+msgstr "下一个（自动队列):"
+
+#: tools/editor/editor_node.cpp:1495
+msgid ""
+"No main scene has ever been defined.\n"
+"Select one from \"Project Settings\" under the 'application' category."
+msgstr ""
+"没有定义主场景.\n"
+"请到项目设置的 'application' 类别中定义主场景"
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:248
+msgid "No samples to import!"
+msgstr "没有声音可供导入!"
+
+#: tools/editor/editor_node.cpp:1449
+msgid "No scene to run exists."
+msgstr "没有可运行的场景."
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:473
+msgid "No source font file!"
+msgstr "没有源字体文件！"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:479
+msgid "No target font resource!"
+msgstr "没有目标字体资源！"
+
+#: tools/editor/editor_node.cpp:3476
+msgid "Node"
+msgstr "节点"
+
+#: tools/editor/editor_node.cpp:3750
+msgid "Object properties."
+msgstr "对象属性."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1358
+msgid "OneShot Node"
+msgstr "一次性节点"
+
+#: tools/editor/editor_node.cpp:1991
+#: tools/editor/plugins/script_editor_plugin.cpp:1303
+msgid "Open"
+msgstr "打开"
+
+#: tools/editor/editor_node.cpp:3969
+msgid "Open & Run a Script"
+msgstr "打开并运行脚本"
+
+#: tools/editor/editor_node.cpp:2158
+msgid ""
+"Open Project Manager? \n"
+"(Unsaved changes will be lost)"
+msgstr ""
+"打开项目管理器? \n"
+"(所有未保存的改动将丢失)"
+
+#: tools/editor/editor_node.cpp:3440
+msgid "Open Recent"
+msgstr "最近打开的"
+
+#: tools/editor/editor_node.cpp:1636
+msgid "Open Scene"
+msgstr "打开场景"
+
+#: tools/editor/editor_node.cpp:3435
+msgid "Open Scene.."
+msgstr "打开场景.."
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:978
+msgid ""
+"Open animation editor.\n"
+"Property editor will displays all editable keys too."
+msgstr ""
+"打开动画编辑器。\n"
+"属性编辑器将显示所有可编辑关键帧"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:627
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:369
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:575
+msgid "Options:"
+msgstr "选项:"
+
+#: tools/editor/editor_node.cpp:3965
+msgid "Password:"
+msgstr "密码:"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1317
+msgid "Paste"
+msgstr "粘贴"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2213
+msgid "Paste Pose"
+msgstr "粘贴姿势"
+
+#: tools/editor/editor_node.cpp:3561
+msgid "Pause the scene (F7)."
+msgstr "暂停场景 (F7)."
+
+#: tools/editor/editor_node.cpp:3596
+msgid "Play custom scene ("
+msgstr "运行自定义场景 ("
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:985
+msgid "Play selected animation."
+msgstr "播放选中的动画"
+
+#: tools/editor/editor_node.cpp:3588
+msgid "Play the edited scene (F6)."
+msgstr "运行正在编辑的场景 (F6)."
+
+#: tools/editor/editor_node.cpp:1775
+msgid "Please save the scene first."
+msgstr "请先保存场景."
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:319
+msgid "Please specify a valid target import path!"
+msgstr "请设置有效的目标导入路径！"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2203
+msgid "Pos"
+msgstr "位置"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2206
+msgid "Pos+Rot"
+msgstr "位置+选择"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2208
+msgid "Pos+Scale"
+msgstr "位置+缩放"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:618
+msgid "Post-Process Script:"
+msgstr "后处理脚本："
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1393
+msgid "Post-Processing Scene.."
+msgstr "后处理场景..."
+
+#: tools/editor/plugins/camera_editor_plugin.cpp:91
+msgid "Preview"
+msgstr "预览"
+
+#: tools/editor/editor_node.cpp:3463
+msgid "Project Settings"
+msgstr "项目设置.."
+
+#: tools/editor/property_editor.cpp:2984
+msgid "Property"
+msgstr "属性"
+
+#: tools/editor/editor_node.cpp:1643 tools/editor/editor_node.cpp:3442
+msgid "Quick Open Scene.."
+msgstr "快速打开场景.."
+
+#: tools/editor/editor_node.cpp:1650 tools/editor/editor_node.cpp:3443
+msgid "Quick Open Script.."
+msgstr "快速打开脚本.."
+
+#: tools/editor/editor_node.cpp:1977 tools/editor/editor_node.cpp:3466
+msgid "Quit"
+msgstr "退出"
+
+#: tools/editor/editor_node.cpp:3465
+msgid "Quit to Project List"
+msgstr "退出到项目管理器"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:353
+msgid "Random Restart (s):"
+msgstr "随机重启(秒)"
+
+#: tools/editor/editor_node.cpp:3887
+msgid "Re-Import"
+msgstr "重新导入"
+
+#: tools/editor/project_manager.cpp:677
+msgid "Recent Projects:"
+msgstr "最近打开的项目:"
+
+#: tools/editor/editor_node.cpp:3459
+#: tools/editor/plugins/script_editor_plugin.cpp:1313
+msgid "Redo"
+msgstr "重做"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1398
+msgid "Reload"
+msgstr "重新加载"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:967
+msgid "Remove Animation"
+msgstr "删除动画"
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:247
+msgid "Remove Item "
+msgstr "删除项"
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:295
+msgid "Remove Selected Item"
+msgstr "删除选中项"
+
+#: tools/editor/animation_editor.cpp:3226
+msgid "Remove selected track."
+msgstr "删除选中通道."
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:962
+msgid "Rename Animation"
+msgstr "重命名动画"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1330
+msgid "Replace.."
+msgstr "替换为..."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1400
+msgid "Resave"
+msgstr "重新保存"
+
+#: tools/editor/editor_node.cpp:3497
+#, fuzzy
+msgid "Resource"
+msgstr "资源"
+
+#: tools/editor/editor_node.cpp:3688
+msgid "Resources"
+msgstr "资源"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:347
+msgid "Restart (s):"
+msgstr "重新开始(秒):"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2204
+msgid "Rot"
+msgstr "旋转"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2209
+msgid "Rot+Scale"
+msgstr "旋转+缩放"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2138
+msgid "Rotate Mode (E)"
+msgstr "旋转模式(E)"
+
+#: tools/editor/project_manager.cpp:704
+msgid "Run"
+msgstr "运行"
+
+#: tools/editor/editor_node.cpp:3461
+msgid "Run Script"
+msgstr "运行脚本"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1402
+msgid "Running Custom Script.."
+msgstr "运行自定义脚本"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:568
+msgid "Same as Target Scene"
+msgstr "和目标场景相同"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1304
+msgid "Save"
+msgstr "保存"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1306
+msgid "Save All"
+msgstr "全部保存"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1305
+#, fuzzy
+msgid "Save As.."
+msgstr "另存为.."
+
+#: tools/editor/editor_node.cpp:3436
+msgid "Save Scene"
+msgstr "保存场景"
+
+#: tools/editor/editor_node.cpp:3437
+msgid "Save Scene As.."
+msgstr "另存为.."
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:271
+msgid "Save path is empty!"
+msgstr "保存路径为空！"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1524
+msgid "Saving.."
+msgstr "保存中..."
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2205
+msgid "Scale"
+msgstr "缩放"
+
+#: tools/editor/animation_editor.cpp:3345
+msgid "Scale Ratio:"
+msgstr "缩放比例："
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1019
+msgid "Scale animation playback globally for the node."
+msgstr "为该节点全局缩放动画播放比例"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:312
+msgid "Scale:"
+msgstr "缩放:"
+
+#: tools/editor/project_manager.cpp:712
+msgid "Scan"
+msgstr "扫描"
+
+#: tools/editor/editor_node.cpp:3416 tools/editor/editor_node.cpp:3684
+msgid "Scene"
+msgstr "场景"
+
+#: tools/editor/editor_node.cpp:1460
+msgid "Scene has never been saved. Save before running!"
+msgstr "场景未保存.请保存后再运行!"
+
+#: tools/editor/plugins/script_editor_plugin.h:226
+msgid "Script"
+msgstr "脚本"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1327
+msgid "Search"
+msgstr "搜索"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:146
+msgid "Search:"
+msgstr "搜索:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1004
+msgid "Seek animation (when stopped)."
+msgstr "定位动画 (当停止时)."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1319
+msgid "Select All"
+msgstr "全选"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2126
+msgid "Select Mode (Q)\n"
+msgstr "选择模式 (Q)\n"
+
+#: tools/editor/editor_node.cpp:3604
+msgid "Serve the project filesystem to remote clients."
+msgstr "将项目文件发送到远程客户端."
+
+#: tools/editor/editor_node.cpp:1375
+msgid "Set Params"
+msgstr "设置参数"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2220
+msgid "Set a Value"
+msgstr "设值"
+
+#: tools/editor/editor_node.cpp:3641
+msgid "Settings"
+msgstr "设置"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:569
+msgid "Shared"
+msgstr "共享"
+
+#: tools/editor/editor_node.cpp:3651
+msgid "Show Animation"
+msgstr "显示动画"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1347
+msgid "Show Debugger"
+msgstr "显示调试器"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2225
+msgid "Snap (Pixels):"
+msgstr "吸附 （像素):"
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:310
+msgid "Source CSV:"
+msgstr "来源 CSV:"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:585
+msgid "Source Font Size:"
+msgstr "源字体大小"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:583
+msgid "Source Font:"
+msgstr "源格式:"
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:318
+msgid "Source Sample(s):"
+msgstr "源："
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:542
+msgid "Source Scene:"
+msgstr "源场景:"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:474
+msgid "Source Texture(s):"
+msgstr "源："
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:303
+msgid "Source path is empty."
+msgstr "源路径为空."
+
+#: tools/editor/editor_node.cpp:3807
+msgid "Spins when the editor window repaints!"
+msgstr "当编辑器窗口重绘时旋转!"
+
+#: tools/editor/editor_node.cpp:1606
+msgid "Start a New Scene? (Current will be lost)"
+msgstr "开始新场景? (替代当前场景)"
+
+#: tools/editor/editor_node.cpp:3551
+msgid "Start the scene (F5)."
+msgstr "开始场景 (F5)."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:364
+msgid "Start!"
+msgstr "开始！"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1342
+msgid "Step Into"
+msgstr "进入"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1341
+msgid "Step Over"
+msgstr "跳过"
+
+#: tools/editor/animation_editor.cpp:3177
+msgid "Step(s):"
+msgstr "步骤:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:992
+msgid "Stop animation playback."
+msgstr "停止播放动画。"
+
+#: tools/editor/editor_node.cpp:3569
+msgid "Stop the scene (F8)."
+msgstr "停止场景 (F8)."
+
+#: tools/editor/editor_node.cpp:3509
+msgid "Sub-Scene"
+msgstr "子场景"
+
+#: tools/editor/editor_node.cpp:3450
+msgid "Subscene.."
+msgstr "子场景.."
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:331
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:496
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:328
+msgid "Target Path:"
+msgstr "目标路径："
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:555
+msgid "Target Scene:"
+msgstr "目标场景"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:571
+msgid "Target Texture Folder:"
+msgstr "目标贴图目录:"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:309
+msgid "Target path is empty."
+msgstr "目标路径为空."
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:616
+msgid "Test: "
+msgstr "测试："
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:191
+msgid "Texture Compression Quality (WebP):"
+msgstr "贴图压缩质量 (WebP):"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:171
+msgid "Texture Format"
+msgstr "贴图格式"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:214
+msgid "Texture Options"
+msgstr "贴图选项"
+
+#: tools/editor/editor_node.cpp:3907
+msgid "Thanks so Much!"
+msgstr "非常感谢！"
+
+#: tools/editor/editor_node.cpp:3909
+msgid "Thanks!"
+msgstr "多谢!"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1390
+msgid ""
+"The following files are newer on disk.\n"
+"What action should be taken?:"
+msgstr ""
+"以下文件有更新\n"
+"将采取哪种行动？:"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:603
+msgid "The quick brown fox jumps over the lazy dog."
+msgstr "The quick brown fox jumps over the lazy dog."
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:293
+msgid "Theme"
+msgstr "风格"
+
+#: tools/editor/editor_node.cpp:1825
+msgid "This operation can't be done on instanced scenes."
+msgstr "本操作无法用于实例场景."
+
+#: tools/editor/editor_node.cpp:1799 tools/editor/editor_node.cpp:1920
+msgid "This operation can't be done without a scene."
+msgstr "本操作需要至少一个场景."
+
+#: tools/editor/editor_node.cpp:1965
+msgid "This operation can't be done without a selected node."
+msgstr "本操作需要先选址一个节点."
+
+#: tools/editor/editor_node.cpp:694 tools/editor/editor_node.cpp:1707
+#: tools/editor/editor_node.cpp:1757
+msgid "This operation can't be done without a tree root."
+msgstr "本操作需要一个根节点."
+
+#: tools/editor/editor_node.cpp:975 tools/editor/editor_node.cpp:1812
+msgid "This operation requieres a single selected node."
+msgstr "本操作只能用于一个选中的节点."
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:184
+msgid "Thumbnail.."
+msgstr "缩略图..."
+
+#: tools/editor/editor_node.cpp:3454
+msgid "TileSet.."
+msgstr "图块集.."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1363
+msgid "TimeScale Node"
+msgstr "时间缩放节点"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1364
+msgid "TimeSeek Node"
+msgstr "时间定位节点"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1339
+msgid "Toggle Breakpoint"
+msgstr "切换断点"
+
+#: tools/editor/animation_editor.cpp:3135
+msgid "Tracks.."
+msgstr "通道..."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1365
+msgid "Transition Node"
+msgstr "转换节点"
+
+#: tools/editor/editor_node.cpp:3451
+msgid "Translatable Strings.."
+msgstr "可翻译的文本.."
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:390
+msgid "Translation"
+msgstr "翻译"
+
+#: tools/editor/editor_node.cpp:764 tools/editor/editor_node.cpp:780
+#: tools/editor/editor_node.cpp:2678 tools/editor/editor_node.cpp:2692
+#: tools/editor/editor_node.cpp:2705
+msgid "Ugh"
+msgstr "阿哦"
+
+#: tools/editor/editor_node.cpp:3458
+#: tools/editor/plugins/script_editor_plugin.cpp:1312
+msgid "Undo"
+msgstr "撤销"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:725
+msgid "Unknown font format."
+msgstr "未知的字体格式."
+
+#: tools/editor/editor_node.cpp:3888
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:622
+msgid "Update"
+msgstr "更新"
+
+#: tools/editor/editor_node.cpp:3811
+msgid "Update Always"
+msgstr "一直更新"
+
+#: tools/editor/editor_node.cpp:3812
+msgid "Update Changes"
+msgstr "当改变时更新"
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:298
+msgid "Update from Scene"
+msgstr "从场景中更新"
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:257
+msgid "Update from existing scene?:\n"
+msgstr "从已有场景中更新?:\n"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2171
+msgid "Use Pixel Snap"
+msgstr "使用像素吸附"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2168
+msgid "Use Snap"
+msgstr "使用吸附"
+
+#: tools/editor/property_editor.cpp:2985
+msgid "Value"
+msgstr "值"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2182
+msgid "View"
+msgstr "视图"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1358
+msgid "Window"
+msgstr "窗口"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:437
+msgid "X-Fade Time (s):"
+msgstr "淡入时间（秒）："
+
+#: tools/editor/editor_node.cpp:1604 tools/editor/editor_node.cpp:2157
+msgid "Yes"
+msgstr "好"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2188
+msgid "Zoom In"
+msgstr "放大"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2189
+msgid "Zoom Out"
+msgstr "缩小"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2190
+msgid "Zoom Reset"
+msgstr "重置放大缩小"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2191
+msgid "Zoom Set.."
+msgstr "放大到..."
+
+#: tools/editor/editor_node.cpp:862
+msgid "ok :("
+msgstr "好:("
+
+#~ msgid " - Project Manager"
+#~ msgstr " - 项目管理器"
