@@ -27,7 +27,7 @@ PO Template can be extracted from [GNU gettext](http://www.gnu.org/software/gett
 [Poedit](https://github.com/vslavik/poedit) is recommended for Gettext translation, but you are welcome to use whatever your favorite PO editor.  
 
 - __Translating (Online)__  
-You are also welcome to contribute to our [Godot online translation project](https://poeditor.com/join/project?hash=15721c79eff2d02de1670f8e8664af13).  
+You are also welcome to contribute to [Godot online translation project](https://poeditor.com/join/project?hash=15721c79eff2d02de1670f8e8664af13).  
 (Thanks [POEditor](https://poeditor.com) team for free hosting!)
 
 
