@@ -1,0 +1,1428 @@
+msgid ""
+msgstr ""
+"Project-Id-Version: \n"
+"Report-Msgid-Bugs-To: \n"
+"POT-Creation-Date: 2014-04-15 18:22+0800\n"
+"PO-Revision-Date: 2014-04-15 14:49-0600\n"
+"Last-Translator: Jorge Araya Navarro <elcorreo@deshackra.com>\n"
+"Language-Team: LANGUAGE <LL@li.org>\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"X-Generator: Poedit 1.6.4\n"
+"Plural-Forms: nplurals=2; plural=(n != 1);\n"
+"Language: es\n"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.h:323
+msgid "2D"
+msgstr "2D"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:605
+msgid "2D Texture"
+msgstr "Textura 2D"
+
+#: tools/editor/plugins/spatial_editor_plugin.h:469
+msgid "3D"
+msgstr "3D"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:690
+msgid "3D Scene"
+msgstr "Escena 3D"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1583
+msgid "3D Scene Animation"
+msgstr "Animación Escena 3D"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:609
+msgid "3D Texture"
+msgstr "Textura 3D"
+
+#: tools/editor/editor_node.cpp:3661
+msgid "About"
+msgstr "Acerca de"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:652
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:361
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:648
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:537
+msgid "Accept"
+msgstr "Aceptar"
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:294
+msgid "Add Item"
+msgstr "Agregar ítem"
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:347
+msgid "Add to Project (engine.cfg)"
+msgstr "Agregar proyecto (engine.cfg)"
+
+#: tools/editor/editor_node.cpp:3668
+msgid "Alerts when an external resource has changed."
+msgstr "Alerta cuando un recurso externo ha cambiado."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:374
+msgid "Amount:"
+msgstr "Cantidad:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1040
+msgid "Animation Name:"
+msgstr "Nombre de la Animación"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1357
+msgid "Animation Node"
+msgstr "Nodo de Animación"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:239
+msgid "Animation Options"
+msgstr "Opciones de Animación"
+
+#: tools/editor/animation_editor.cpp:3171
+msgid "Animation length (in seconds)."
+msgstr "Duración de la Animación (en segundos)."
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1010
+msgid "Animation position (in seconds)."
+msgstr "Posición de la Animación (en segundos)."
+
+#: tools/editor/animation_editor.cpp:3145
+#: tools/editor/animation_editor.cpp:3157
+msgid "Animation zoom."
+msgstr "Enfoque de la Animación"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:329
+msgid "At least one file needed for Atlas."
+msgstr "Por lo menos un archivo es requerido para el Atlas."
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:614
+msgid "Atlas Texture"
+msgstr "Atlas de la textura"
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:385
+msgid "Audio Sample"
+msgstr "Muestra de Audio"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:342
+msgid "Auto Restart:"
+msgstr "Auto Reinicio:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:957
+msgid "Autoplay On Load"
+msgstr "Auto Iniciar Al Cargar"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:335
+msgid "Blend"
+msgstr "Mezcla"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:414
+msgid "Blend 0:"
+msgstr "Mezcla 0:"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:422
+msgid "Blend 1:"
+msgstr "Mezcla 1:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1063
+msgid "Blend Times: "
+msgstr "Mezcla de Tiempos:"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1360
+msgid "Blend2 Node"
+msgstr "Nodo Mezcla2"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1361
+msgid "Blend3 Node"
+msgstr "Nodo de Mezcla3"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1362
+msgid "Blend4 Node"
+msgstr "Nodo de Mezcla4"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:386
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:401
+msgid "Blend:"
+msgstr "Mezcla:"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1344
+msgid "Break"
+msgstr "Interrupción"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1460
+msgid "Can't import a file over itself: '"
+msgstr "No es posible importar un archivo sobre sí mismo: '"
+
+#: tools/editor/editor_node.cpp:1055
+msgid "Can't load MeshLibrary for merging!."
+msgstr "¡No es posible cargar MeshLibrary para combinar!."
+
+# No estoy seguro si TileSet se refiere a una pieza de Godot o qué...
+#: tools/editor/editor_node.cpp:1089
+msgid "Can't load TileSet for merging!."
+msgstr "¡No es posible cargar TileSet para combinar!."
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:487
+msgid "Can't load/process source font"
+msgstr "No es posible cargar/procesar fuente de origen"
+
+#: tools/editor/editor_node.cpp:1123
+msgid "Can't open export templates zip."
+msgstr "No es posible abrir zip de plantillas de exportación."
+
+#: tools/editor/editor_node.cpp:432
+msgid "Can't open file for writing: "
+msgstr "No es posible abrir archivo para escritura:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:267
+msgid "Change Animation Name:"
+msgstr "Cambiar Nombre de la Animación:"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1369
+msgid "Clear"
+msgstr "Limpiar"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2214
+msgid "Clear Pose"
+msgstr "Limpiar Pose"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2221
+#: tools/editor/plugins/script_editor_plugin.cpp:1223
+#: tools/editor/plugins/script_editor_plugin.cpp:1359
+msgid "Close"
+msgstr "Cerrar"
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:89
+msgid "Column"
+msgstr "Columna"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1321
+msgid "Complete Symbol"
+msgstr "Símbolo Completo"
+
+# No estoy seguro si TileSet se refiere a una pieza de Godot o qué...
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2169
+msgid "Configure Snap.."
+msgstr "Configurar Ajuste de rejilla..."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1345
+msgid "Continue"
+msgstr "Continuar"
+
+#: tools/editor/editor_node.cpp:3455
+msgid "Convert To.."
+msgstr "Convertir A..."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1316
+msgid "Copy"
+msgstr "Copiar"
+
+#: tools/editor/editor_node.cpp:1374
+msgid "Copy Params"
+msgstr "Copiar Parametros"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2212
+msgid "Copy Pose"
+msgstr "Copiar Pose"
+
+#: tools/editor/editor_node.cpp:1539
+msgid "Could not start subprocess!"
+msgstr "¡No se pudo iniciar sub-proceso!"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:495
+msgid "Could't save font."
+msgstr "No se pudo salvar la fuente."
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:335
+msgid "Couldn't load Post-Import Script."
+msgstr "No se pudo cargar guion de Pos-Importación."
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1411
+msgid "Couldn't load post-import script: '"
+msgstr "No se pudo cargar guion de pos-importación: '"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1465
+msgid "Couldn't localize path: '"
+msgstr "No se pudo localizar ruta: '"
+
+#: tools/editor/editor_node.cpp:716
+msgid ""
+"Couldn't save scene. Likely dependencies (instances) couldn't be satisfied."
+msgstr ""
+"No se pudo salvar escena. Posiblemente dependencias (instancias) no se "
+"pudieron satisfacer."
+
+#: tools/editor/editor_node.cpp:997
+msgid ""
+"Couldn't save subscene. Likely dependencies (instances) couldn't be "
+"satisfied."
+msgstr ""
+"No se pudo salvar sub-escena. Posiblemente dependencias (instancias) no se "
+"pudieron satisfacer."
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:156
+msgid "Creating Mesh Library"
+msgstr "Creando Biblioteca de Mallas"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:485
+msgid "Crop empty space."
+msgstr "Cortar el espacio en blanco."
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1066
+msgid "Cross-Animation Blend Times"
+msgstr "Mezcla Tiempos de Animación Cruzada"
+
+#: tools/editor/editor_node.cpp:1993
+msgid "Current scene not saved. Open anyway?"
+msgstr "La escena actual no ha sido guardada. ¿Abrir de todas maneras?"
+
+#: tools/editor/editor_node.cpp:1516
+msgid "Current scene was never saved, please save scene before running."
+msgstr ""
+"La escena actual nunca a sido guardada, por favor guarde la escena antes de "
+"correr."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:444
+msgid "Current:"
+msgstr "Actual:"
+
+#: tools/editor/animation_editor.cpp:3187
+msgid "Cursor step snap (in seconds)."
+msgstr "Pasos Snap del cursor (en segundos)."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1315
+msgid "Cut"
+msgstr "Cortar"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1338
+msgid "Debug"
+msgstr "Depurar"
+
+#: tools/editor/editor_node.cpp:3967
+msgid "Debug:"
+msgstr "Depurar:"
+
+#: tools/editor/editor_node.cpp:3618
+msgid "Deploy dumb clients when the File Server is active."
+msgstr "Desplegar clientes tontos cuando el Servidor de Archivos esta activo."
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:600
+msgid "Dest Resource:"
+msgstr "Destino de Recursos:"
+
+#: tools/editor/editor_node.cpp:2902
+msgid ""
+"Discard current scene and open:\n"
+"'"
+msgstr ""
+"Descartar escena actual y abrir:\n"
+"'"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:953
+msgid "Display list of animations in player."
+msgstr "Visualizar lista de animaciones en el reproductor."
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2126
+msgid ""
+"Drag: Rotate\n"
+"Alt+Drag: Move\n"
+"Press 'v' to Move Pivot (while moving)"
+msgstr ""
+"Arrastrar: Rotar\n"
+"Alt+Arrastar: Mover\n"
+"Presione 'v' para Mover Pivote (mientras se mueve)"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:948
+msgid "Duplicate Animation"
+msgstr "Duplicar Animación"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:348
+msgid "ERROR: Animation Name Already Exists!"
+msgstr "ERROR: ¡Nombre de Animación Ya Existe!"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:337
+msgid "ERROR: Invalid animation name!"
+msgstr "ERROR: ¡Nombre de animación no valido!"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1311
+#: tools/editor/project_manager.cpp:698
+msgid "Edit"
+msgstr "Editar"
+
+#: tools/editor/plugins/item_list_editor_plugin.cpp:230
+msgid "Edit Items"
+msgstr "Editar ítems"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1469
+msgid "Edit Node Filters"
+msgstr "Editar Nodo de Filtros"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:971
+msgid "Edit Target Blend Times"
+msgstr "Editar Objetivo de Tiempos de Mezcla"
+
+#: tools/editor/editor_node.cpp:3654
+msgid "Editor Settings"
+msgstr "Editar Ajustes"
+
+#: tools/editor/editor_node.cpp:3964
+msgid "Enable Debugging"
+msgstr "Habilitar Depuración"
+
+#: tools/editor/animation_editor.cpp:3205
+msgid "Enable editing of individual keys by clicking them."
+msgstr "Habilitar edicion de teclas individuales haciendo clic en ellas."
+
+#: tools/editor/animation_editor.cpp:3196
+msgid "Enable/Disable looping in animation."
+msgstr "Habilitar/Deshabilitar bucle en Animación."
+
+#: tools/editor/project_manager.cpp:737
+msgid "Erase"
+msgstr "Borrar"
+
+#: tools/editor/editor_node.cpp:440
+msgid "Error Saving."
+msgstr "Error al Guardar."
+
+#: tools/editor/editor_node.cpp:1026
+msgid "Error duplicating scene to save it."
+msgstr "Error duplicando escena para guardarla."
+
+#: tools/editor/editor_node.cpp:765
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:374
+msgid "Error importing scene."
+msgstr "Error importando escena."
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:350
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:373
+msgid "Error importing: "
+msgstr "Error de importación:"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:718
+msgid "Error initializing FreeType."
+msgstr "Error al inicializar FreeType."
+
+#: tools/editor/editor_node.cpp:781
+msgid "Error load scene to update."
+msgstr "Error al cargar escena a actualizar."
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:729
+msgid "Error loading font."
+msgstr "Error cargando fuente."
+
+#: tools/editor/editor_node.cpp:2679
+msgid ""
+"Error loading scene, it must be inside the project path. Use 'Import' to "
+"open the scene, then save it inside the project path."
+msgstr ""
+"Error cargando escena, debe estar dentro de la ruta del proyecto. Use "
+"'Importar' para abrir una escena, luego guárdela dentro de la ruta del "
+"proyecto."
+
+#: tools/editor/editor_node.cpp:2693 tools/editor/editor_node.cpp:2706
+msgid "Error loading scene."
+msgstr "Error cargando escena."
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1427
+msgid "Error running Post-Import script: '"
+msgstr "Error ejecutando guion de Pos-Importación: '"
+
+#: tools/editor/editor_node.cpp:1072
+msgid "Error saving MeshLibrary!."
+msgstr "¡Error guardando MeshLibrary!"
+
+#: tools/editor/editor_node.cpp:1106
+msgid "Error saving TileSet!."
+msgstr "¡Error guardando TileSet!."
+
+#: tools/editor/editor_node.cpp:1015
+msgid "Error saving scene."
+msgstr "Error guardando escena."
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1049
+msgid "Error!"
+msgstr "¡Error!"
+
+#: tools/editor/project_manager.cpp:746
+msgid "Exit"
+msgstr "Salir"
+
+#: tools/editor/editor_node.cpp:1979
+msgid "Exit the Editor?"
+msgstr "¿Salir de el Editor?"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2173
+msgid "Expand to Parent"
+msgstr "Expandir hasta el Padre"
+
+#: tools/editor/editor_node.cpp:3524
+msgid "Export"
+msgstr "Exportar"
+
+#: tools/editor/editor_node.cpp:3951
+msgid "Export Library"
+msgstr "Exportar Biblioteca"
+
+#: tools/editor/editor_node.cpp:1934
+msgid "Export Mesh Library"
+msgstr "Exportar Biblioteca de Mallas"
+
+#: tools/editor/editor_node.cpp:3947
+msgid "Export Project"
+msgstr "Exportar Proyecto"
+
+#: tools/editor/editor_node.cpp:1948
+msgid "Export Tile Set"
+msgstr "Exportar Conjunto de Baldosas"
+
+#: tools/editor/editor_node.cpp:3523
+msgid "Export the project to many platforms."
+msgstr "Exportar el proyecto a muchas plataformas."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:321
+msgid "Fade In (s):"
+msgstr "Fundido de entrada (s):"
+
+#: tools/editor/editor_node.cpp:863
+msgid "Failed to load resource."
+msgstr "Fallo al cargar recurso."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1302
+msgid "File"
+msgstr "Archivo"
+
+#: tools/editor/editor_node.cpp:436
+msgid "File format requested unknown: "
+msgstr "Formato de archivo pedido es desconocido: "
+
+#: tools/editor/editor_node.cpp:3760
+msgid "FileSystem"
+msgstr "Sistema de Archivos"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1482
+msgid "Filters.."
+msgstr "Filtros..."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1329
+msgid "Find Next"
+msgstr "Buscar siguiente"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1328
+msgid "Find.."
+msgstr "Buscar.."
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:1320
+msgid "Font"
+msgstr "Fuente"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:640
+msgid "Font Import"
+msgstr "Importar Fuente"
+
+#: tools/editor/editor_node.cpp:3749
+msgid "Go to the next edited object in history."
+msgstr "Ir al siguiente objeto editado en el historial."
+
+#: tools/editor/editor_node.cpp:3742
+msgid "Go to the previous edited object in history."
+msgstr "Ir al previo objeto editado en el historial."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1332
+msgid "Goto Function.."
+msgstr "Ir a la Función..."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1333
+msgid "Goto Line.."
+msgstr "Ir a la linea.."
+
+#: tools/editor/editor_node.cpp:3445
+msgid "Goto Prev. Scene"
+msgstr "Ir a la Escena previa"
+
+#: tools/editor/editor_help.h:180
+msgid "Help"
+msgstr "Ayuda"
+
+#: tools/editor/editor_node.cpp:426 tools/editor/editor_node.cpp:693
+#: tools/editor/editor_node.cpp:715 tools/editor/editor_node.cpp:974
+#: tools/editor/editor_node.cpp:996 tools/editor/editor_node.cpp:1014
+#: tools/editor/editor_node.cpp:1025 tools/editor/editor_node.cpp:1054
+#: tools/editor/editor_node.cpp:1071 tools/editor/editor_node.cpp:1088
+#: tools/editor/editor_node.cpp:1105 tools/editor/editor_node.cpp:1122
+#: tools/editor/editor_node.cpp:1448 tools/editor/editor_node.cpp:1459
+#: tools/editor/editor_node.cpp:1494 tools/editor/editor_node.cpp:1515
+#: tools/editor/editor_node.cpp:1538 tools/editor/editor_node.cpp:1706
+#: tools/editor/editor_node.cpp:1756 tools/editor/editor_node.cpp:1774
+#: tools/editor/editor_node.cpp:1798 tools/editor/editor_node.cpp:1811
+#: tools/editor/editor_node.cpp:1824 tools/editor/editor_node.cpp:1919
+#: tools/editor/editor_node.cpp:1964 tools/editor/editor_node.cpp:2580
+msgid "I see.."
+msgstr "Ya veo.."
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:316
+msgid "Ignore First Row"
+msgstr "Ignorar Primer Fila "
+
+#: tools/editor/editor_node.cpp:3510
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:648
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:356
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:593
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:529
+#: tools/editor/project_manager.cpp:731
+msgid "Import"
+msgstr "Importar"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:532
+msgid "Import 3D Scene"
+msgstr "Importar Escena 3D"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1367
+msgid "Import Animations..."
+msgstr "Importar Animación..."
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:310
+msgid "Import Audio Samples"
+msgstr "Importar Muestras de Audio"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1454
+msgid "Import Img: "
+msgstr "Importar imagen: "
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:374
+msgid "Import Languages:"
+msgstr "Importar Idioma:"
+
+#: tools/editor/editor_node.cpp:3517
+msgid "Import Old Scene"
+msgstr "Importar Escena Antigua"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1329
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:279
+msgid "Import Scene"
+msgstr "Importar Escena"
+
+#: tools/editor/editor_node.cpp:4069
+msgid "Import Settings"
+msgstr "Importar Ajustes"
+
+#: tools/editor/editor_node.cpp:3931
+msgid "Import Templates from ZIP file"
+msgstr "Importar Plantillas desde archivo Zip"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:465
+msgid "Import Textures"
+msgstr "Importar Texturas"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:556
+msgid "Import Textures for 2D"
+msgstr "Importar Texturas para 2D"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:563
+msgid "Import Textures for 3D"
+msgstr "Importar Texturas para 3D"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:548
+msgid "Import Textures for Atlas (2D)"
+msgstr "Importar Texturas para Atlas (2D)"
+
+#: tools/editor/editor_node.cpp:3509
+msgid "Import assets to the project."
+msgstr "Importar contenido a el proyecto."
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:297
+msgid "Import from Scene"
+msgstr "Importar desde Escena"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:602
+msgid "Import:"
+msgstr "Importar:"
+
+#: tools/editor/import_settings.cpp:280
+msgid "Imported Resources"
+msgstr "Recurso Importado"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1370
+msgid "Importing Scene.."
+msgstr "Importando Escena.."
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2200
+msgid "Insert Key"
+msgstr "Insertar clave"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2201
+msgid "Insert Key (Existing Tracks)"
+msgstr "Insertar clave (Pistas Existentes)"
+
+#: tools/editor/editor_node.cpp:3718
+msgid "Inspector"
+msgstr "Inspector"
+
+#: tools/editor/editor_node.cpp:3659
+msgid "Install Export Templates"
+msgstr "Instalar plantillas de Exportación"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:788
+msgid "Invalid font custom source. "
+msgstr "origen personalizado de fuente no valida."
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:745
+msgid "Invalid font size. "
+msgstr "Tamaño de fuente no valida."
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:67
+msgid "Invalid source!"
+msgstr "¡Origen Invalido!"
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:78
+msgid "Invalid translation source!"
+msgstr "¡Origen de traducción invalido!"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:344
+msgid "Invalid/Broken Script for Post-Import."
+msgstr "Guion de Pos-Importación Invalido/Roto"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1417
+msgid "Invalid/Broken Script for Post-Import: '"
+msgstr "Guion de Pos-Importación Invalido/Roto: '"
+
+#: tools/editor/plugins/item_list_editor_plugin.cpp:263
+msgid "Item List"
+msgstr "Lista de ítems"
+
+#: tools/editor/plugins/item_list_editor_plugin.cpp:229
+msgid "Items"
+msgstr "ítems"
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:90
+msgid "Language"
+msgstr "Idioma"
+
+#: tools/editor/animation_editor.cpp:3162
+msgid "Len(s):"
+msgstr "Dur(s):"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:943
+msgid "Load an animation from disk."
+msgstr "Cargar animación desde el disco."
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2210
+msgid "Loc+Rot+Scale"
+msgstr "Loc+Rot+Escala"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:150
+msgid "Matches:"
+msgstr "Coincidencias:"
+
+#: tools/editor/editor_node.cpp:3955
+msgid "Merge With Existing"
+msgstr "Combinar Con Existente"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1497
+msgid "Merging.."
+msgstr "Combinando.."
+
+#: tools/editor/editor_node.cpp:3459
+msgid "MeshLibrary.."
+msgstr "MeshLibrary.."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:336
+msgid "Mix"
+msgstr "Únion"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1359
+msgid "Mix Node"
+msgstr "Nodo de Únion"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1225
+#: tools/editor/plugins/script_editor_plugin.cpp:1361
+msgid "Move Left"
+msgstr "Mover a la Izquierda"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2132
+msgid "Move Mode (W)"
+msgstr "Modo Mover (W)"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1226
+#: tools/editor/plugins/script_editor_plugin.cpp:1362
+msgid "Move Right"
+msgstr "Mover a la Derecha"
+
+#: tools/editor/animation_editor.cpp:3219
+msgid "Move current track dosn."
+msgstr "Mover pista actual hacía abajo."
+
+#: tools/editor/animation_editor.cpp:3212
+msgid "Move current track up."
+msgstr "Mover pista actual hacía arriba."
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:217
+msgid ""
+"NOTICE: You are not forced to import textures for 2D projects. Just copy "
+"your .jpg or .png files to your project, and change export options later. "
+"Atlases can be generated on export too."
+msgstr ""
+"AVISO: Usted no esta forzado a importar texturas para proyectos 2D. Sólo "
+"copie sus archivos .jpg o .png a su proyecto, y cambie las opciones de "
+"exportación luego. Los Atlas pueden también ser generados al exportar."
+
+#: tools/editor/editor_node.cpp:3580
+msgid "NTV"
+msgstr "NTV"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:242
+msgid "New Anim"
+msgstr "Nueva Anim"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:239
+msgid "New Animation Name:"
+msgstr "Nuevo Nombre de Animación:"
+
+#: tools/editor/project_manager.cpp:726
+msgid "New Project"
+msgstr "Nuevo Proyecto"
+
+#: tools/editor/editor_node.cpp:3440
+msgid "New Scene"
+msgstr "Nueva Escena"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:274
+msgid "New name:"
+msgstr "Nuevo Nombre:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1065
+msgid "Next (Auto Queue):"
+msgstr "Siguiente (Cola Automática):"
+
+#: tools/editor/editor_node.cpp:1495
+msgid ""
+"No main scene has ever been defined.\n"
+"Select one from \"Project Settings\" under the 'application' category."
+msgstr ""
+"No se ha definido aun escena principal.\n"
+"Seleccione una desde \"Ajustes de Proyecto\" bajo la categoría 'aplicación'."
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:248
+msgid "No samples to import!"
+msgstr "¡No hay muestras para importar!"
+
+#: tools/editor/editor_node.cpp:1449
+msgid "No scene to run exists."
+msgstr "No existe escena para ejecutar."
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:473
+msgid "No source font file!"
+msgstr "¡No existe origen de archivo para la fuente!"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:479
+msgid "No target font resource!"
+msgstr "¡No existe origen de fuente objetivo!"
+
+#: tools/editor/editor_node.cpp:3482
+msgid "Node"
+msgstr "Nodo"
+
+#: tools/editor/editor_node.cpp:3756
+msgid "Object properties."
+msgstr "Propiedades de Objeto"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1358
+msgid "OneShot Node"
+msgstr "Nodo OneShot"
+
+#: tools/editor/editor_node.cpp:1991
+#: tools/editor/plugins/script_editor_plugin.cpp:1303
+msgid "Open"
+msgstr "Abrir"
+
+#: tools/editor/editor_node.cpp:3975
+msgid "Open & Run a Script"
+msgstr "Abrir y ejecutar un guion"
+
+#: tools/editor/editor_node.cpp:2158
+msgid ""
+"Open Project Manager? \n"
+"(Unsaved changes will be lost)"
+msgstr ""
+"¿Abrir Administrador de Proyecto? \n"
+"(Los cambios sin guardar serán perdidos)"
+
+#: tools/editor/editor_node.cpp:3446
+msgid "Open Recent"
+msgstr "Abrir Reciente"
+
+#: tools/editor/editor_node.cpp:1636
+msgid "Open Scene"
+msgstr "Abrir Escena"
+
+#: tools/editor/editor_node.cpp:3441
+msgid "Open Scene.."
+msgstr "Abrir Escena.."
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:978
+msgid ""
+"Open animation editor.\n"
+"Property editor will displays all editable keys too."
+msgstr ""
+"Abrir editor de animación.\n"
+"El editor de propiedades mostrara también todas las teclas editables."
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:627
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:369
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:575
+msgid "Options:"
+msgstr "Opciones:"
+
+#: tools/editor/editor_node.cpp:3971
+msgid "Password:"
+msgstr "Contraseña:"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1317
+msgid "Paste"
+msgstr "Pegar"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2213
+msgid "Paste Pose"
+msgstr "Pegar Pose"
+
+#: tools/editor/editor_node.cpp:3567
+msgid "Pause the scene (F7)."
+msgstr "Pausar la Escena (F7)."
+
+#: tools/editor/editor_node.cpp:3602
+msgid "Play custom scene ("
+msgstr "Ejecutar escena personalizada ("
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:985
+msgid "Play selected animation."
+msgstr "Reproducir animación seleccionada."
+
+#: tools/editor/editor_node.cpp:3594
+msgid "Play the edited scene (F6)."
+msgstr "Ejecutar escena editada (F6)."
+
+#: tools/editor/editor_node.cpp:1775
+msgid "Please save the scene first."
+msgstr "Por favor, guarde la escena primero."
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:319
+msgid "Please specify a valid target import path!"
+msgstr "Por favor, ¡especifique una ruta de objeto valido a importar!"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2203
+msgid "Pos"
+msgstr "Pos"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2206
+msgid "Pos+Rot"
+msgstr "Pos+Rot"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2208
+msgid "Pos+Scale"
+msgstr "Pos+Escala"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:618
+msgid "Post-Process Script:"
+msgstr "Guion de Pos-Proceso:"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1393
+msgid "Post-Processing Scene.."
+msgstr "Pos-Procesando Escena.."
+
+#: tools/editor/plugins/camera_editor_plugin.cpp:91
+msgid "Preview"
+msgstr "Pre-visualización "
+
+#: tools/editor/editor_node.cpp:3469
+msgid "Project Settings"
+msgstr "Ajustes de Projecto"
+
+#: tools/editor/property_editor.cpp:2991
+msgid "Property"
+msgstr "Propiedades"
+
+#: tools/editor/editor_node.cpp:1643 tools/editor/editor_node.cpp:3448
+msgid "Quick Open Scene.."
+msgstr "Abrir Escena Rápido.."
+
+#: tools/editor/editor_node.cpp:1650 tools/editor/editor_node.cpp:3449
+msgid "Quick Open Script.."
+msgstr "Abrir Guion Rápido.."
+
+#: tools/editor/editor_node.cpp:1977 tools/editor/editor_node.cpp:3472
+msgid "Quit"
+msgstr "Salir"
+
+#: tools/editor/editor_node.cpp:3471
+msgid "Quit to Project List"
+msgstr "Salir a la Lista de Proyectos"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:353
+msgid "Random Restart (s):"
+msgstr "Reinicio al Azar (s):"
+
+#: tools/editor/editor_node.cpp:3893
+msgid "Re-Import"
+msgstr "Re-Importar"
+
+#: tools/editor/project_manager.cpp:677
+msgid "Recent Projects:"
+msgstr "Proyectos Recientes:"
+
+#: tools/editor/editor_node.cpp:3465
+#: tools/editor/plugins/script_editor_plugin.cpp:1313
+msgid "Redo"
+msgstr "Re-hacer"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1398
+msgid "Reload"
+msgstr "Recargar"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:967
+msgid "Remove Animation"
+msgstr "Remover Animación"
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:247
+msgid "Remove Item "
+msgstr "Remover Ítem"
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:295
+msgid "Remove Selected Item"
+msgstr "Remover Ítem Seleccionado"
+
+#: tools/editor/animation_editor.cpp:3226
+msgid "Remove selected track."
+msgstr "Remover Pista Seleccionada"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:962
+msgid "Rename Animation"
+msgstr "Renombrar Animación"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1330
+msgid "Replace.."
+msgstr "Reemplazar.."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1400
+msgid "Resave"
+msgstr "Volver a guardar"
+
+#: tools/editor/editor_node.cpp:3503
+msgid "Resource"
+msgstr "Recurso"
+
+#: tools/editor/editor_node.cpp:3694
+msgid "Resources"
+msgstr "Recursos"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:347
+msgid "Restart (s):"
+msgstr "Reinicio (s):"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2204
+msgid "Rot"
+msgstr "Rot"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2209
+msgid "Rot+Scale"
+msgstr "Rot+Escala"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2138
+msgid "Rotate Mode (E)"
+msgstr "Modo Rotación (E)"
+
+#: tools/editor/project_manager.cpp:704
+msgid "Run"
+msgstr "Ejecutar"
+
+#: tools/editor/editor_node.cpp:3467
+msgid "Run Script"
+msgstr "Ejecutar Guion"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1402
+msgid "Running Custom Script.."
+msgstr "Ejecutar Guion Personalizado.."
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:568
+msgid "Same as Target Scene"
+msgstr "Mismo que Escena Objetivo"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1304
+msgid "Save"
+msgstr "Guardar"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1306
+msgid "Save All"
+msgstr "Guardar Todo"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1305
+msgid "Save As.."
+msgstr "Guardar Como.."
+
+#: tools/editor/editor_node.cpp:3442
+msgid "Save Scene"
+msgstr "Guardar Escena"
+
+#: tools/editor/editor_node.cpp:3443
+msgid "Save Scene As.."
+msgstr "Guardar Escena Como.."
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:271
+msgid "Save path is empty!"
+msgstr "¡Ruta para Guardar esta vacía!"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1524
+msgid "Saving.."
+msgstr "Guardando.."
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2205
+msgid "Scale"
+msgstr "Escala"
+
+#: tools/editor/animation_editor.cpp:3345
+msgid "Scale Ratio:"
+msgstr "Ratio de Escala:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1019
+msgid "Scale animation playback globally for the node."
+msgstr "Escalar reproducción de la animación globalmente para el nodo."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:312
+msgid "Scale:"
+msgstr "Escalar:"
+
+#: tools/editor/project_manager.cpp:712
+msgid "Scan"
+msgstr "Escanear"
+
+#: tools/editor/editor_node.cpp:3422 tools/editor/editor_node.cpp:3690
+msgid "Scene"
+msgstr "Escena"
+
+#: tools/editor/editor_node.cpp:1460
+msgid "Scene has never been saved. Save before running!"
+msgstr ""
+"La escena nunca ha sido guardada. ¡Guarde la Escena antes de ejecutarla!"
+
+#: tools/editor/plugins/script_editor_plugin.h:226
+msgid "Script"
+msgstr "Guion"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1327
+msgid "Search"
+msgstr "Buscar"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:146
+msgid "Search:"
+msgstr "Buscar:"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:1004
+msgid "Seek animation (when stopped)."
+msgstr "Buscar animación (cuando esta detenida)."
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1319
+msgid "Select All"
+msgstr "Seleccionar Todo"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2126
+msgid "Select Mode (Q)\n"
+msgstr "Modo Seleccionar (Q)\n"
+
+#: tools/editor/editor_node.cpp:3610
+msgid "Serve the project filesystem to remote clients."
+msgstr "Servir el sistema de archivos del proyecto para clientes remotos."
+
+#: tools/editor/editor_node.cpp:1375
+msgid "Set Params"
+msgstr "Establacer Parametros"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2220
+msgid "Set a Value"
+msgstr "Establecer un Valor"
+
+#: tools/editor/editor_node.cpp:3647
+msgid "Settings"
+msgstr "Ajustes"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:569
+msgid "Shared"
+msgstr "Compartido"
+
+#: tools/editor/editor_node.cpp:3657
+msgid "Show Animation"
+msgstr "Mostrar Animación"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1347
+msgid "Show Debugger"
+msgstr "Mostrar Depurador"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2225
+msgid "Snap (Pixels):"
+msgstr "Ajuste de rejilla (Pixeles):"
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:310
+msgid "Source CSV:"
+msgstr "CSV Origen:"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:585
+msgid "Source Font Size:"
+msgstr "Tamaño de Fuente Origen"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:583
+msgid "Source Font:"
+msgstr "Fuente Origen:"
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:318
+msgid "Source Sample(s):"
+msgstr "Muestra(as) Origen:"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:542
+msgid "Source Scene:"
+msgstr "Escena Origen:"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:474
+msgid "Source Texture(s):"
+msgstr "Textura(s) Origen:"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:303
+msgid "Source path is empty."
+msgstr "Ruta de Origen esta vacía."
+
+#: tools/editor/editor_node.cpp:3813
+msgid "Spins when the editor window repaints!"
+msgstr "¡Gira cuando la ventana de el editor es repintada!"
+
+#: tools/editor/editor_node.cpp:1606
+msgid "Start a New Scene? (Current will be lost)"
+msgstr "¿Comenzar una Nueva Escena? (Se perderá la actual)"
+
+#: tools/editor/editor_node.cpp:3557
+msgid "Start the scene (F5)."
+msgstr "Iniciar la Escena (F5)."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:364
+msgid "Start!"
+msgstr "¡Iniciar!"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1342
+msgid "Step Into"
+msgstr "Paso Dentro"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1341
+msgid "Step Over"
+msgstr "Paso Sobre"
+
+#: tools/editor/animation_editor.cpp:3177
+msgid "Step(s):"
+msgstr "Paso(s):"
+
+#: tools/editor/plugins/animation_player_editor_plugin.cpp:992
+msgid "Stop animation playback."
+msgstr "Detener reproducción de la Animación"
+
+#: tools/editor/editor_node.cpp:3575
+msgid "Stop the scene (F8)."
+msgstr "Detener la Escena (F8)."
+
+#: tools/editor/editor_node.cpp:3515
+msgid "Sub-Scene"
+msgstr "Sub-Escena"
+
+#: tools/editor/editor_node.cpp:3456
+msgid "Subscene.."
+msgstr "Sub-Escena.."
+
+#: tools/editor/io_plugins/editor_sample_import_plugin.cpp:331
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:496
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:328
+msgid "Target Path:"
+msgstr "Ruta Objetivo:"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:555
+msgid "Target Scene:"
+msgstr "Escena Objetivo:"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:571
+msgid "Target Texture Folder:"
+msgstr "Objetivo de Directorio de Textura:"
+
+#: tools/editor/io_plugins/editor_scene_import_plugin.cpp:309
+msgid "Target path is empty."
+msgstr "Ruta de Objetivo esta vacía."
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:616
+msgid "Test: "
+msgstr "Prueba:"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:191
+msgid "Texture Compression Quality (WebP):"
+msgstr "Calidad de Compresión de Textura (WebP)"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:171
+msgid "Texture Format"
+msgstr "Formato de Textura"
+
+#: tools/editor/io_plugins/editor_texture_import_plugin.cpp:214
+msgid "Texture Options"
+msgstr "Opciones de Textura"
+
+#: tools/editor/editor_node.cpp:3913
+msgid "Thanks so Much!"
+msgstr "¡Muchísimas Gracias!"
+
+#: tools/editor/editor_node.cpp:3915
+msgid "Thanks!"
+msgstr "¡Gracias!"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1390
+msgid ""
+"The following files are newer on disk.\n"
+"What action should be taken?:"
+msgstr ""
+"Los siguientes archivos son nuevos en el disco.\n"
+"¿Qué acción debería ser llevada a cabo?"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:603
+msgid "The quick brown fox jumps over the lazy dog."
+msgstr "El rápido zorro café saltaba sobre el perezoso perro."
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:293
+msgid "Theme"
+msgstr "Tema"
+
+#: tools/editor/editor_node.cpp:1825
+msgid "This operation can't be done on instanced scenes."
+msgstr "Ésta operación no puede ser completada en una instancia de la escena."
+
+#: tools/editor/editor_node.cpp:1799 tools/editor/editor_node.cpp:1920
+msgid "This operation can't be done without a scene."
+msgstr "Ésta operación no puede completarse sin una escena."
+
+#: tools/editor/editor_node.cpp:1965
+msgid "This operation can't be done without a selected node."
+msgstr "Ésta operación no puede completarse sin un nodo seleccionado."
+
+#: tools/editor/editor_node.cpp:694 tools/editor/editor_node.cpp:1707
+#: tools/editor/editor_node.cpp:1757
+msgid "This operation can't be done without a tree root."
+msgstr "Ésta operación no puede completarse sin una raíz de árbol."
+
+#: tools/editor/editor_node.cpp:975 tools/editor/editor_node.cpp:1812
+msgid "This operation requieres a single selected node."
+msgstr "Ésta operación requiere un único nodo seleccionado."
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:184
+msgid "Thumbnail.."
+msgstr "Miniatura.."
+
+#: tools/editor/editor_node.cpp:3460
+msgid "TileSet.."
+msgstr "TileSet.."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1363
+msgid "TimeScale Node"
+msgstr "Nodo TimeScale"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1364
+msgid "TimeSeek Node"
+msgstr "Nodo TimeSeek"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1339
+msgid "Toggle Breakpoint"
+msgstr "Alternar punto de interrupción"
+
+#: tools/editor/animation_editor.cpp:3135
+msgid "Tracks.."
+msgstr "Pistas.."
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:1365
+msgid "Transition Node"
+msgstr "Modo Transición"
+
+#: tools/editor/editor_node.cpp:3457
+msgid "Translatable Strings.."
+msgstr "Cadena Traducible.."
+
+#: tools/editor/io_plugins/editor_translation_import_plugin.cpp:390
+msgid "Translation"
+msgstr "Traducción"
+
+#: tools/editor/editor_node.cpp:764 tools/editor/editor_node.cpp:780
+#: tools/editor/editor_node.cpp:2678 tools/editor/editor_node.cpp:2692
+#: tools/editor/editor_node.cpp:2705
+msgid "Ugh"
+msgstr "Ugh"
+
+#: tools/editor/editor_node.cpp:3464
+#: tools/editor/plugins/script_editor_plugin.cpp:1312
+msgid "Undo"
+msgstr "Deshacer"
+
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:725
+msgid "Unknown font format."
+msgstr "Formato de fuente desconocido"
+
+#: tools/editor/editor_node.cpp:3894
+#: tools/editor/io_plugins/editor_font_import_plugin.cpp:622
+msgid "Update"
+msgstr "Actualizar"
+
+#: tools/editor/editor_node.cpp:3817
+msgid "Update Always"
+msgstr "Siempre Actualizar"
+
+#: tools/editor/editor_node.cpp:3818
+msgid "Update Changes"
+msgstr "Actualizar Cambios"
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:298
+msgid "Update from Scene"
+msgstr "Actualizar desde Escena"
+
+#: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:257
+msgid "Update from existing scene?:\n"
+msgstr "¿Actualizar desde escena existente?:\n"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2171
+msgid "Use Pixel Snap"
+msgstr "Usar Ajuste de rejilla de Pixeles"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2168
+msgid "Use Snap"
+msgstr "Usar Ajuste de Rejilla"
+
+#: tools/editor/property_editor.cpp:2992
+msgid "Value"
+msgstr "Valor"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2182
+msgid "View"
+msgstr "Vista"
+
+#: tools/editor/plugins/script_editor_plugin.cpp:1358
+msgid "Window"
+msgstr "Ventana"
+
+#: tools/editor/plugins/animation_tree_editor_plugin.cpp:437
+msgid "X-Fade Time (s):"
+msgstr "Tiempo-X de Fundido (s):"
+
+#: tools/editor/editor_node.cpp:1604 tools/editor/editor_node.cpp:2157
+msgid "Yes"
+msgstr "Sí"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2188
+msgid "Zoom In"
+msgstr "Acercar"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2189
+msgid "Zoom Out"
+msgstr "Alejar"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2190
+msgid "Zoom Reset"
+msgstr "Reiniciar aumento"
+
+#: tools/editor/plugins/canvas_item_editor_plugin.cpp:2191
+msgid "Zoom Set.."
+msgstr "Establecer acercamiento.."
+
+#: tools/editor/editor_node.cpp:862
+msgid "ok :("
+msgstr "Bueno :("
