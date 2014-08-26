@@ -33,26 +33,26 @@ msgstr "3Dテクスチャ"
 
 #: tools/editor/editor_node.cpp:3661
 msgid "About"
-msgstr "約"
+msgstr "Godotについて"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:652
 #: tools/editor/io_plugins/editor_sample_import_plugin.cpp:361
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:648
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:537
 msgid "Accept"
-msgstr "受け入れる"
+msgstr "了解"
 
 #: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:294
 msgid "Add Item"
-msgstr "アイテムの追加"
+msgstr "アイテムを追加"
 
 #: tools/editor/io_plugins/editor_translation_import_plugin.cpp:347
 msgid "Add to Project (engine.cfg)"
-msgstr "プロジェクトに追加する（engine.cfg）"
+msgstr "プロジェクトに追加（engine.cfg）"
 
 #: tools/editor/editor_node.cpp:3668
 msgid "Alerts when an external resource has changed."
-msgstr "外部リソースが変更されたアラート。"
+msgstr "外部リソースが変更された際に警告"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:374
 msgid "Amount:"
@@ -60,7 +60,7 @@ msgstr "金額："
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:1040
 msgid "Animation Name:"
-msgstr "アニメーションの名前："
+msgstr "アニメーション名："
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1357
 msgid "Animation Node"
@@ -72,20 +72,20 @@ msgstr "アニメーションオプション"
 
 #: tools/editor/animation_editor.cpp:3171
 msgid "Animation length (in seconds)."
-msgstr "アニメーションの長さ（秒単位）。"
+msgstr "アニメーションの長さ（秒）"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:1010
 msgid "Animation position (in seconds)."
-msgstr "アニメーションの位置（秒単位）。"
+msgstr "アニメーションの位置（秒）"
 
 #: tools/editor/animation_editor.cpp:3145
 #: tools/editor/animation_editor.cpp:3157
 msgid "Animation zoom."
-msgstr "アニメーションズーム。"
+msgstr "アニメーションズーム"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:329
 msgid "At least one file needed for Atlas."
-msgstr "アトラスのために必要な少なくとも一つのファイル。"
+msgstr "アトラスには少なくとも一つのファイルが必要"
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:614
 msgid "Atlas Texture"
@@ -101,7 +101,7 @@ msgstr "自動再起動："
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:957
 msgid "Autoplay On Load"
-msgstr "負荷に自動再生"
+msgstr "ロード時自動再生"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:335
 msgid "Blend"
@@ -117,7 +117,7 @@ msgstr "ブレンド1："
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:1063
 msgid "Blend Times: "
-msgstr "タイムズブレンド："
+msgstr "ブレンド回数："
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1360
 msgid "Blend2 Node"
@@ -125,11 +125,11 @@ msgstr "ブレンド2ノード"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1361
 msgid "Blend3 Node"
-msgstr "Blend3ノード"
+msgstr "ブレンド3ノード"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1362
 msgid "Blend4 Node"
-msgstr "Blend4ノード"
+msgstr "ブレンド4ノード"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:386
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:401
@@ -142,39 +142,39 @@ msgstr "ブレーク"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1460
 msgid "Can't import a file over itself: '"
-msgstr "自体を介してファイルをインポートすることはできません： '"
+msgstr "自身に対してはインポートできない： '"
 
 #: tools/editor/editor_node.cpp:1055
 msgid "Can't load MeshLibrary for merging!."
-msgstr "マージMeshLibraryをロードできません！"
+msgstr "マージするメッシュライブラリーをロードできない！"
 
 #: tools/editor/editor_node.cpp:1089
 msgid "Can't load TileSet for merging!."
-msgstr "マージするタイルセットをロードできません！"
+msgstr "マージするタイルセットをロードできない！"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:487
 msgid "Can't load/process source font"
-msgstr "/プロセスソースのフォントをロードすることはできません"
+msgstr "フォントをロード/実行できない"
 
 #: tools/editor/editor_node.cpp:1123
 msgid "Can't open export templates zip."
-msgstr "エクスポートテンプレートジップ開くことができません。"
+msgstr "エキスポートテンプレートを開けない"
 
 #: tools/editor/editor_node.cpp:432
 msgid "Can't open file for writing: "
-msgstr "書き込み用にファイルを開くことができません。"
+msgstr "書き込むファイルを開けない"
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:267
 msgid "Change Animation Name:"
-msgstr "変化がアニメーション名："
+msgstr "アニメーション名を変更:"
 
 #: tools/editor/plugins/animation_tree_editor_plugin.cpp:1369
 msgid "Clear"
-msgstr "明確な"
+msgstr "クリア"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2214
 msgid "Clear Pose"
-msgstr "明確なポーズ"
+msgstr "ポーズをクリア"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2221
 #: tools/editor/plugins/script_editor_plugin.cpp:1223
@@ -188,7 +188,7 @@ msgstr "コラム"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1321
 msgid "Complete Symbol"
-msgstr "完全なシンボル"
+msgstr "シンボルを完了"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2169
 msgid "Configure Snap.."
@@ -208,31 +208,31 @@ msgstr "コピー"
 
 #: tools/editor/editor_node.cpp:1374
 msgid "Copy Params"
-msgstr "コピーのParams"
+msgstr "パラメータをコピー"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2212
 msgid "Copy Pose"
-msgstr "コピーがポーズ"
+msgstr "ポーズをコピー"
 
 #: tools/editor/editor_node.cpp:1539
 msgid "Could not start subprocess!"
-msgstr "サブプロセスを起動できませんでした！"
+msgstr "サブプロセスを起動できない"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:495
 msgid "Could't save font."
-msgstr "フォントを保存Could't。"
+msgstr "フォントを保存できなかった"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:335
 msgid "Couldn't load Post-Import Script."
-msgstr "ポストスクリプトの読み込みをロードできませんでした。"
+msgstr "ポストインポートスクリプトをロードできなかった"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1411
 msgid "Couldn't load post-import script: '"
-msgstr "ポストインポートスクリプトをロードできませんでした。 '"
+msgstr "ポストインポートスクリプトをロードできなかった: '"
 
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:1465
 msgid "Couldn't localize path: '"
-msgstr "パスをローカライズできませんでした： '"
+msgstr "パスをローカライズできなかった： '"
 
 #: tools/editor/editor_node.cpp:716
 msgid "Couldn't save scene. Likely dependencies (instances) couldn't be satisfied."
