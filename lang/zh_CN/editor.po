@@ -1,27 +1,11 @@
-# SOME DESCRIPTIVE TITLE.
-# Copyright (C) YEAR THE PACKAGE'S COPYRIGHT HOLDER
-# This file is distributed under the same license as the PACKAGE package.
-# FIRST AUTHOR <EMAIL@ADDRESS>, YEAR.
-#
 msgid ""
 msgstr ""
-"Project-Id-Version: godot editor translation (zh_CN)\n"
-"Report-Msgid-Bugs-To: \n"
-"POT-Creation-Date: 2014-03-27 19:33+0800\n"
-"PO-Revision-Date: 2014-03-27 19:33+0800\n"
-"Last-Translator: Mary Nate <mary.w.nate@gmail.com>\n"
-"Language-Team: marynate <mary.w.nate@gmail.com>\n"
-"Language: zh\n"
 "MIME-Version: 1.0\n"
 "Content-Type: text/plain; charset=UTF-8\n"
 "Content-Transfer-Encoding: 8bit\n"
-"X-Generator: Poedit 1.6.4\n"
-"Plural-Forms: nplurals=1; plural=0;\n"
-"X-Poedit-Basepath: ../git/godot\n"
-
-#: tools/editor/editor_node.cpp:3931
-msgid "*.zip ; Zip Template Package"
-msgstr "*.zip ; Zip 模板包"
+"X-Generator: POEditor.com\n"
+"Project-Id-Version: Godot\n"
+"Language: zh-CN\n"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.h:323
 msgid "2D"
@@ -31,7 +15,7 @@ msgstr "二维"
 msgid "2D Texture"
 msgstr "二维贴图"
 
-#: tools/editor/plugins/spatial_editor_plugin.h:453
+#: tools/editor/plugins/spatial_editor_plugin.h:469
 msgid "3D"
 msgstr "三维"
 
@@ -47,7 +31,7 @@ msgstr "三维场景动画"
 msgid "3D Texture"
 msgstr "三维贴图"
 
-#: tools/editor/editor_node.cpp:3655
+#: tools/editor/editor_node.cpp:3661
 msgid "About"
 msgstr "关于"
 
@@ -66,7 +50,7 @@ msgstr "添加项"
 msgid "Add to Project (engine.cfg)"
 msgstr "加入项目 (engine.cfg)"
 
-#: tools/editor/editor_node.cpp:3662
+#: tools/editor/editor_node.cpp:3668
 msgid "Alerts when an external resource has changed."
 msgstr "当外部资源改变时提示."
 
@@ -214,7 +198,7 @@ msgstr "配置吸附"
 msgid "Continue"
 msgstr "继续"
 
-#: tools/editor/editor_node.cpp:3449
+#: tools/editor/editor_node.cpp:3455
 msgid "Convert To.."
 msgstr "转换为.."
 
@@ -228,7 +212,7 @@ msgstr "复制参数"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2212
 msgid "Copy Pose"
-msgstr "负责姿势"
+msgstr "复制姿势"
 
 #: tools/editor/editor_node.cpp:1539
 msgid "Could not start subprocess!"
@@ -251,14 +235,11 @@ msgid "Couldn't localize path: '"
 msgstr "无法定位路径:'"
 
 #: tools/editor/editor_node.cpp:716
-msgid ""
-"Couldn't save scene. Likely dependencies (instances) couldn't be satisfied."
+msgid "Couldn't save scene. Likely dependencies (instances) couldn't be satisfied."
 msgstr "无法保存场景! 可能是有依赖项(实例对象)不满足要求."
 
 #: tools/editor/editor_node.cpp:997
-msgid ""
-"Couldn't save subscene. Likely dependencies (instances) couldn't be "
-"satisfied."
+msgid "Couldn't save subscene. Likely dependencies (instances) couldn't be satisfied."
 msgstr "无法保存子场景. 可能是有依赖项(实例对象)不满足要求."
 
 #: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:156
@@ -297,11 +278,11 @@ msgstr "剪切"
 msgid "Debug"
 msgstr "调试"
 
-#: tools/editor/editor_node.cpp:3961
+#: tools/editor/editor_node.cpp:3967
 msgid "Debug:"
 msgstr "调试:"
 
-#: tools/editor/editor_node.cpp:3612
+#: tools/editor/editor_node.cpp:3618
 msgid "Deploy dumb clients when the File Server is active."
 msgstr "当文件服务器激活时部属空项目."
 
@@ -309,9 +290,8 @@ msgstr "当文件服务器激活时部属空项目."
 msgid "Dest Resource:"
 msgstr "目标资源"
 
-#: tools/editor/editor_node.cpp:2904
-msgid ""
-"Discard current scene and open:\n"
+#: tools/editor/editor_node.cpp:2902
+msgid "Discard current scene and open:\n"
 "'"
 msgstr "不保存当场场景并打开:"
 
@@ -320,12 +300,10 @@ msgid "Display list of animations in player."
 msgstr "显示动画列表"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2126
-msgid ""
-"Drag: Rotate\n"
+msgid "Drag: Rotate\n"
 "Alt+Drag: Move\n"
 "Press 'v' to Move Pivot (while moving)"
-msgstr ""
-"拖动:旋转\n"
+msgstr "拖动:旋转\n"
 "Alt+拖动:移动\n"
 "按下'v'键移动中心轴"
 
@@ -358,11 +336,11 @@ msgstr "编辑节点过滤器"
 msgid "Edit Target Blend Times"
 msgstr "编辑目标混合时间"
 
-#: tools/editor/editor_node.cpp:3648
+#: tools/editor/editor_node.cpp:3654
 msgid "Editor Settings"
 msgstr "编辑器设置"
 
-#: tools/editor/editor_node.cpp:3958
+#: tools/editor/editor_node.cpp:3964
 msgid "Enable Debugging"
 msgstr "允许调试"
 
@@ -409,12 +387,8 @@ msgid "Error loading font."
 msgstr "导入字体出错."
 
 #: tools/editor/editor_node.cpp:2679
-msgid ""
-"Error loading scene, it must be inside the project path. Use 'Import' to "
-"open the scene, then save it inside the project path."
-msgstr ""
-"加载场景出错,场景必须位于项目目录下.可以用\"导入\"选项导入外部场景,然后保存到"
-"项目目录下."
+msgid "Error loading scene, it must be inside the project path. Use 'Import' to open the scene, then save it inside the project path."
+msgstr "加载场景出错,场景必须位于项目目录下.可以用\"导入\"选项导入外部场景,然后保存到项目目录下."
 
 #: tools/editor/editor_node.cpp:2693 tools/editor/editor_node.cpp:2706
 msgid "Error loading scene."
@@ -452,11 +426,11 @@ msgstr "退出编辑器?"
 msgid "Expand to Parent"
 msgstr "扩展到父物体"
 
-#: tools/editor/editor_node.cpp:3518
+#: tools/editor/editor_node.cpp:3524
 msgid "Export"
 msgstr "导出"
 
-#: tools/editor/editor_node.cpp:3945
+#: tools/editor/editor_node.cpp:3951
 msgid "Export Library"
 msgstr "导出库"
 
@@ -464,7 +438,7 @@ msgstr "导出库"
 msgid "Export Mesh Library"
 msgstr "导出Mesh库"
 
-#: tools/editor/editor_node.cpp:3941
+#: tools/editor/editor_node.cpp:3947
 msgid "Export Project"
 msgstr "导出项目"
 
@@ -472,7 +446,7 @@ msgstr "导出项目"
 msgid "Export Tile Set"
 msgstr "导出Tile Set"
 
-#: tools/editor/editor_node.cpp:3517
+#: tools/editor/editor_node.cpp:3523
 msgid "Export the project to many platforms."
 msgstr "将项目导出到多个平台."
 
@@ -492,7 +466,7 @@ msgstr "文件"
 msgid "File format requested unknown: "
 msgstr "未知的文件格式:"
 
-#: tools/editor/editor_node.cpp:3754
+#: tools/editor/editor_node.cpp:3760
 msgid "FileSystem"
 msgstr "文件系统"
 
@@ -516,11 +490,11 @@ msgstr "字体"
 msgid "Font Import"
 msgstr "导入字体"
 
-#: tools/editor/editor_node.cpp:3743
+#: tools/editor/editor_node.cpp:3749
 msgid "Go to the next edited object in history."
 msgstr "转到下一个历史中的编辑物体."
 
-#: tools/editor/editor_node.cpp:3736
+#: tools/editor/editor_node.cpp:3742
 msgid "Go to the previous edited object in history."
 msgstr "转到前一个历史中的编辑物体."
 
@@ -532,7 +506,7 @@ msgstr "转到函数..."
 msgid "Goto Line.."
 msgstr "转到行..."
 
-#: tools/editor/editor_node.cpp:3439
+#: tools/editor/editor_node.cpp:3445
 msgid "Goto Prev. Scene"
 msgstr "转到前一个场景"
 
@@ -560,7 +534,7 @@ msgstr "好吧.."
 msgid "Ignore First Row"
 msgstr "忽视第一行"
 
-#: tools/editor/editor_node.cpp:3504
+#: tools/editor/editor_node.cpp:3510
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:648
 #: tools/editor/io_plugins/editor_sample_import_plugin.cpp:356
 #: tools/editor/io_plugins/editor_scene_import_plugin.cpp:593
@@ -589,7 +563,7 @@ msgstr "导入图像:"
 msgid "Import Languages:"
 msgstr "导入语言:"
 
-#: tools/editor/editor_node.cpp:3511
+#: tools/editor/editor_node.cpp:3517
 msgid "Import Old Scene"
 msgstr "导入旧场景"
 
@@ -598,11 +572,11 @@ msgstr "导入旧场景"
 msgid "Import Scene"
 msgstr "导入场景"
 
-#: tools/editor/editor_node.cpp:4063
+#: tools/editor/editor_node.cpp:4069
 msgid "Import Settings"
 msgstr "导入设置"
 
-#: tools/editor/editor_node.cpp:3925
+#: tools/editor/editor_node.cpp:3931
 msgid "Import Templates from ZIP file"
 msgstr "从ZIP 文件安装模板"
 
@@ -622,7 +596,7 @@ msgstr "为三维导入贴图"
 msgid "Import Textures for Atlas (2D)"
 msgstr "为贴图集导入贴图 (二维)"
 
-#: tools/editor/editor_node.cpp:3503
+#: tools/editor/editor_node.cpp:3509
 msgid "Import assets to the project."
 msgstr "导入资源到项目中."
 
@@ -650,11 +624,11 @@ msgstr "插入关键帧"
 msgid "Insert Key (Existing Tracks)"
 msgstr "插入关键帧（已有动画通道）"
 
-#: tools/editor/editor_node.cpp:3712
+#: tools/editor/editor_node.cpp:3718
 msgid "Inspector"
 msgstr "属性"
 
-#: tools/editor/editor_node.cpp:3653
+#: tools/editor/editor_node.cpp:3659
 msgid "Install Export Templates"
 msgstr "安装导出模板"
 
@@ -710,7 +684,7 @@ msgstr "位置+旋转+缩放"
 msgid "Matches:"
 msgstr "匹配:"
 
-#: tools/editor/editor_node.cpp:3949
+#: tools/editor/editor_node.cpp:3955
 msgid "Merge With Existing"
 msgstr "和已有的合并"
 
@@ -718,7 +692,7 @@ msgstr "和已有的合并"
 msgid "Merging.."
 msgstr "合并..."
 
-#: tools/editor/editor_node.cpp:3453
+#: tools/editor/editor_node.cpp:3459
 msgid "MeshLibrary.."
 msgstr "三维物体库.."
 
@@ -753,15 +727,10 @@ msgid "Move current track up."
 msgstr "当前通道上移."
 
 #: tools/editor/io_plugins/editor_texture_import_plugin.cpp:217
-msgid ""
-"NOTICE: You are not forced to import textures for 2D projects. Just copy "
-"your .jpg or .png files to your project, and change export options later. "
-"Atlases can be generated on export too."
-msgstr ""
-"注意：你不一定需要导入贴图。只要将.jpg或.png拷入项目中就可以了。你可以之后再"
-"更改导入设置。贴图集可以在项目导出时生成。"
+msgid "NOTICE: You are not forced to import textures for 2D projects. Just copy your .jpg or .png files to your project, and change export options later. Atlases can be generated on export too."
+msgstr "注意：你不一定需要导入贴图。只要将.jpg或.png拷入项目中就可以了。你可以之后再更改导入设置。贴图集可以在项目导出时生成。"
 
-#: tools/editor/editor_node.cpp:3574
+#: tools/editor/editor_node.cpp:3580
 msgid "NTV"
 msgstr "NTV"
 
@@ -777,7 +746,7 @@ msgstr "新动画名称:"
 msgid "New Project"
 msgstr "新项目"
 
-#: tools/editor/editor_node.cpp:3434
+#: tools/editor/editor_node.cpp:3440
 msgid "New Scene"
 msgstr "新场景"
 
@@ -790,11 +759,9 @@ msgid "Next (Auto Queue):"
 msgstr "下一个（自动队列):"
 
 #: tools/editor/editor_node.cpp:1495
-msgid ""
-"No main scene has ever been defined.\n"
+msgid "No main scene has ever been defined.\n"
 "Select one from \"Project Settings\" under the 'application' category."
-msgstr ""
-"没有定义主场景.\n"
+msgstr "没有定义主场景.\n"
 "请到项目设置的 'application' 类别中定义主场景"
 
 #: tools/editor/io_plugins/editor_sample_import_plugin.cpp:248
@@ -813,11 +780,11 @@ msgstr "没有源字体文件！"
 msgid "No target font resource!"
 msgstr "没有目标字体资源！"
 
-#: tools/editor/editor_node.cpp:3476
+#: tools/editor/editor_node.cpp:3482
 msgid "Node"
 msgstr "节点"
 
-#: tools/editor/editor_node.cpp:3750
+#: tools/editor/editor_node.cpp:3756
 msgid "Object properties."
 msgstr "对象属性."
 
@@ -830,19 +797,17 @@ msgstr "一次性节点"
 msgid "Open"
 msgstr "打开"
 
-#: tools/editor/editor_node.cpp:3969
+#: tools/editor/editor_node.cpp:3975
 msgid "Open & Run a Script"
 msgstr "打开并运行脚本"
 
 #: tools/editor/editor_node.cpp:2158
-msgid ""
-"Open Project Manager? \n"
+msgid "Open Project Manager? \n"
 "(Unsaved changes will be lost)"
-msgstr ""
-"打开项目管理器? \n"
+msgstr "打开项目管理器? \n"
 "(所有未保存的改动将丢失)"
 
-#: tools/editor/editor_node.cpp:3440
+#: tools/editor/editor_node.cpp:3446
 msgid "Open Recent"
 msgstr "最近打开的"
 
@@ -850,16 +815,14 @@ msgstr "最近打开的"
 msgid "Open Scene"
 msgstr "打开场景"
 
-#: tools/editor/editor_node.cpp:3435
+#: tools/editor/editor_node.cpp:3441
 msgid "Open Scene.."
 msgstr "打开场景.."
 
 #: tools/editor/plugins/animation_player_editor_plugin.cpp:978
-msgid ""
-"Open animation editor.\n"
+msgid "Open animation editor.\n"
 "Property editor will displays all editable keys too."
-msgstr ""
-"打开动画编辑器。\n"
+msgstr "打开动画编辑器。\n"
 "属性编辑器将显示所有可编辑关键帧"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:627
@@ -868,7 +831,7 @@ msgstr ""
 msgid "Options:"
 msgstr "选项:"
 
-#: tools/editor/editor_node.cpp:3965
+#: tools/editor/editor_node.cpp:3971
 msgid "Password:"
 msgstr "密码:"
 
@@ -880,11 +843,11 @@ msgstr "粘贴"
 msgid "Paste Pose"
 msgstr "粘贴姿势"
 
-#: tools/editor/editor_node.cpp:3561
+#: tools/editor/editor_node.cpp:3567
 msgid "Pause the scene (F7)."
 msgstr "暂停场景 (F7)."
 
-#: tools/editor/editor_node.cpp:3596
+#: tools/editor/editor_node.cpp:3602
 msgid "Play custom scene ("
 msgstr "运行自定义场景 ("
 
@@ -892,7 +855,7 @@ msgstr "运行自定义场景 ("
 msgid "Play selected animation."
 msgstr "播放选中的动画"
 
-#: tools/editor/editor_node.cpp:3588
+#: tools/editor/editor_node.cpp:3594
 msgid "Play the edited scene (F6)."
 msgstr "运行正在编辑的场景 (F6)."
 
@@ -928,27 +891,27 @@ msgstr "后处理场景..."
 msgid "Preview"
 msgstr "预览"
 
-#: tools/editor/editor_node.cpp:3463
+#: tools/editor/editor_node.cpp:3469
 msgid "Project Settings"
 msgstr "项目设置.."
 
-#: tools/editor/property_editor.cpp:2984
+#: tools/editor/property_editor.cpp:2991
 msgid "Property"
 msgstr "属性"
 
-#: tools/editor/editor_node.cpp:1643 tools/editor/editor_node.cpp:3442
+#: tools/editor/editor_node.cpp:1643 tools/editor/editor_node.cpp:3448
 msgid "Quick Open Scene.."
 msgstr "快速打开场景.."
 
-#: tools/editor/editor_node.cpp:1650 tools/editor/editor_node.cpp:3443
+#: tools/editor/editor_node.cpp:1650 tools/editor/editor_node.cpp:3449
 msgid "Quick Open Script.."
 msgstr "快速打开脚本.."
 
-#: tools/editor/editor_node.cpp:1977 tools/editor/editor_node.cpp:3466
+#: tools/editor/editor_node.cpp:1977 tools/editor/editor_node.cpp:3472
 msgid "Quit"
 msgstr "退出"
 
-#: tools/editor/editor_node.cpp:3465
+#: tools/editor/editor_node.cpp:3471
 msgid "Quit to Project List"
 msgstr "退出到项目管理器"
 
@@ -956,7 +919,7 @@ msgstr "退出到项目管理器"
 msgid "Random Restart (s):"
 msgstr "随机重启(秒)"
 
-#: tools/editor/editor_node.cpp:3887
+#: tools/editor/editor_node.cpp:3893
 msgid "Re-Import"
 msgstr "重新导入"
 
@@ -964,7 +927,7 @@ msgstr "重新导入"
 msgid "Recent Projects:"
 msgstr "最近打开的项目:"
 
-#: tools/editor/editor_node.cpp:3459
+#: tools/editor/editor_node.cpp:3465
 #: tools/editor/plugins/script_editor_plugin.cpp:1313
 msgid "Redo"
 msgstr "重做"
@@ -1001,12 +964,12 @@ msgstr "替换为..."
 msgid "Resave"
 msgstr "重新保存"
 
-#: tools/editor/editor_node.cpp:3497
+#: tools/editor/editor_node.cpp:3503
 #, fuzzy
 msgid "Resource"
 msgstr "资源"
 
-#: tools/editor/editor_node.cpp:3688
+#: tools/editor/editor_node.cpp:3694
 msgid "Resources"
 msgstr "资源"
 
@@ -1030,7 +993,7 @@ msgstr "旋转模式(E)"
 msgid "Run"
 msgstr "运行"
 
-#: tools/editor/editor_node.cpp:3461
+#: tools/editor/editor_node.cpp:3467
 msgid "Run Script"
 msgstr "运行脚本"
 
@@ -1055,11 +1018,11 @@ msgstr "全部保存"
 msgid "Save As.."
 msgstr "另存为.."
 
-#: tools/editor/editor_node.cpp:3436
+#: tools/editor/editor_node.cpp:3442
 msgid "Save Scene"
 msgstr "保存场景"
 
-#: tools/editor/editor_node.cpp:3437
+#: tools/editor/editor_node.cpp:3443
 msgid "Save Scene As.."
 msgstr "另存为.."
 
@@ -1091,7 +1054,7 @@ msgstr "缩放:"
 msgid "Scan"
 msgstr "扫描"
 
-#: tools/editor/editor_node.cpp:3416 tools/editor/editor_node.cpp:3684
+#: tools/editor/editor_node.cpp:3422 tools/editor/editor_node.cpp:3690
 msgid "Scene"
 msgstr "场景"
 
@@ -1121,9 +1084,11 @@ msgstr "全选"
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2126
 msgid "Select Mode (Q)\n"
+""
 msgstr "选择模式 (Q)\n"
+""
 
-#: tools/editor/editor_node.cpp:3604
+#: tools/editor/editor_node.cpp:3610
 msgid "Serve the project filesystem to remote clients."
 msgstr "将项目文件发送到远程客户端."
 
@@ -1135,7 +1100,7 @@ msgstr "设置参数"
 msgid "Set a Value"
 msgstr "设值"
 
-#: tools/editor/editor_node.cpp:3641
+#: tools/editor/editor_node.cpp:3647
 msgid "Settings"
 msgstr "设置"
 
@@ -1143,7 +1108,7 @@ msgstr "设置"
 msgid "Shared"
 msgstr "共享"
 
-#: tools/editor/editor_node.cpp:3651
+#: tools/editor/editor_node.cpp:3657
 msgid "Show Animation"
 msgstr "显示动画"
 
@@ -1183,7 +1148,7 @@ msgstr "源："
 msgid "Source path is empty."
 msgstr "源路径为空."
 
-#: tools/editor/editor_node.cpp:3807
+#: tools/editor/editor_node.cpp:3813
 msgid "Spins when the editor window repaints!"
 msgstr "当编辑器窗口重绘时旋转!"
 
@@ -1191,7 +1156,7 @@ msgstr "当编辑器窗口重绘时旋转!"
 msgid "Start a New Scene? (Current will be lost)"
 msgstr "开始新场景? (替代当前场景)"
 
-#: tools/editor/editor_node.cpp:3551
+#: tools/editor/editor_node.cpp:3557
 msgid "Start the scene (F5)."
 msgstr "开始场景 (F5)."
 
@@ -1215,15 +1180,15 @@ msgstr "步骤:"
 msgid "Stop animation playback."
 msgstr "停止播放动画。"
 
-#: tools/editor/editor_node.cpp:3569
+#: tools/editor/editor_node.cpp:3575
 msgid "Stop the scene (F8)."
 msgstr "停止场景 (F8)."
 
-#: tools/editor/editor_node.cpp:3509
+#: tools/editor/editor_node.cpp:3515
 msgid "Sub-Scene"
 msgstr "子场景"
 
-#: tools/editor/editor_node.cpp:3450
+#: tools/editor/editor_node.cpp:3456
 msgid "Subscene.."
 msgstr "子场景.."
 
@@ -1261,20 +1226,18 @@ msgstr "贴图格式"
 msgid "Texture Options"
 msgstr "贴图选项"
 
-#: tools/editor/editor_node.cpp:3907
+#: tools/editor/editor_node.cpp:3913
 msgid "Thanks so Much!"
 msgstr "非常感谢！"
 
-#: tools/editor/editor_node.cpp:3909
+#: tools/editor/editor_node.cpp:3915
 msgid "Thanks!"
 msgstr "多谢!"
 
 #: tools/editor/plugins/script_editor_plugin.cpp:1390
-msgid ""
-"The following files are newer on disk.\n"
+msgid "The following files are newer on disk.\n"
 "What action should be taken?:"
-msgstr ""
-"以下文件有更新\n"
+msgstr "以下文件有更新\n"
 "将采取哪种行动？:"
 
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:603
@@ -1310,7 +1273,7 @@ msgstr "本操作只能用于一个选中的节点."
 msgid "Thumbnail.."
 msgstr "缩略图..."
 
-#: tools/editor/editor_node.cpp:3454
+#: tools/editor/editor_node.cpp:3460
 msgid "TileSet.."
 msgstr "图块集.."
 
@@ -1334,7 +1297,7 @@ msgstr "通道..."
 msgid "Transition Node"
 msgstr "转换节点"
 
-#: tools/editor/editor_node.cpp:3451
+#: tools/editor/editor_node.cpp:3457
 msgid "Translatable Strings.."
 msgstr "可翻译的文本.."
 
@@ -1348,7 +1311,7 @@ msgstr "翻译"
 msgid "Ugh"
 msgstr "阿哦"
 
-#: tools/editor/editor_node.cpp:3458
+#: tools/editor/editor_node.cpp:3464
 #: tools/editor/plugins/script_editor_plugin.cpp:1312
 msgid "Undo"
 msgstr "撤销"
@@ -1357,16 +1320,16 @@ msgstr "撤销"
 msgid "Unknown font format."
 msgstr "未知的字体格式."
 
-#: tools/editor/editor_node.cpp:3888
+#: tools/editor/editor_node.cpp:3894
 #: tools/editor/io_plugins/editor_font_import_plugin.cpp:622
 msgid "Update"
 msgstr "更新"
 
-#: tools/editor/editor_node.cpp:3811
+#: tools/editor/editor_node.cpp:3817
 msgid "Update Always"
 msgstr "一直更新"
 
-#: tools/editor/editor_node.cpp:3812
+#: tools/editor/editor_node.cpp:3818
 msgid "Update Changes"
 msgstr "当改变时更新"
 
@@ -1376,7 +1339,9 @@ msgstr "从场景中更新"
 
 #: tools/editor/plugins/cube_grid_theme_editor_plugin.cpp:257
 msgid "Update from existing scene?:\n"
+""
 msgstr "从已有场景中更新?:\n"
+""
 
 #: tools/editor/plugins/canvas_item_editor_plugin.cpp:2171
 msgid "Use Pixel Snap"
@@ -1386,7 +1351,7 @@ msgstr "使用像素吸附"
 msgid "Use Snap"
 msgstr "使用吸附"
 
-#: tools/editor/property_editor.cpp:2985
+#: tools/editor/property_editor.cpp:2992
 msgid "Value"
 msgstr "值"
 
@@ -1426,5 +1391,3 @@ msgstr "放大到..."
 msgid "ok :("
 msgstr "好:("
 
-#~ msgid " - Project Manager"
-#~ msgstr " - 项目管理器"
