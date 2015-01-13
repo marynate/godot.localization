@@ -36,11 +36,11 @@ Todo: Auto install language file (.po) to Godot editor.
 
 ### Credits
 
-ardy
-DayBreakWalker
-marynate
-nobot
-tappy
+ardy  
+DayBreakWalker  
+marynate  
+nobot  
+tappy  
 
 ### Screeshots
 
