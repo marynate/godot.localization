@@ -32,7 +32,10 @@ You are also welcome to contribute to [Godot online translation project](https:/
 
 
 - __Install PO to Godot Editor__  
-Todo: Auto install language file (.po) to Godot editor.
+First, make sure you choose a CJK font in editor settings dialog:  
+![](http://oi61.tinypic.com/2q8108i.jpg)
+Then you can install the translation file (.po) 
+![](http://oi57.tinypic.com/293ehq9.jpg)
 
 ### Credits
 
